@@ -10,7 +10,7 @@ library(readr) # # read_csv
 library(ggh4x) # facet_nested
 
 # diretorio 
-setwd("C:/Users/User/Desktop/covid_mx/data")
+setwd("C:/Users/User/Documents/GitHub/cvd19_municipalities_br/data")
 
 # obitos
 dfo <- read_csv("df_obitos_g.csv")
@@ -22,7 +22,6 @@ anyNA(dfo$obitos)
 anyNA(dfo$sexo)
 
 sum(is.na(dfo$sexo))
-
 
 cb <- expand.grid(
   ano = 2010:2022,
@@ -64,7 +63,7 @@ dfo2 <- right_join(dfo_cb,
                         "populacao"))
 
 # populacao padrao, estado de sp 2010 (censo)
-setwd("C:/Users/User/Desktop/covid_mx/raw")
+setwd("../raw")
 
 ### sao paulo
 df <- read_delim("saopaulo_pop_2010_f_m.csv",
@@ -855,20 +854,27 @@ logtbmp <- ggplot(ratest) +
            ymin = -Inf, ymax = Inf, 
            fill = "red", 
            alpha = 0.25) +
-  theme_grey(base_size = 14) +
+  theme_grey(base_size = 16) +
   theme(axis.text.x = element_text(angle = 90, vjust = .5),
         axis.line = element_line(colour = "black", 
                                  size = 1, 
                                  linetype = "solid"),
         plot.background = element_rect(fill = "white"))
 
+setwd("../imgs")
 
+ggsave(filename = '../imgs/logtbmp.pdf',
+       plot = logtbmp,
+       width = 16,
+       height = 10)
+
+getwd()
 
 # looping para plotar os graficos separadamente para as causas
 for (i in seq_along(ordem)) {
   nome_causa <- ordem[i]
   
-  dados_causa <- subset(ratestf, cid == nome_causa)
+  dados_causa <- subset(ratest, cid == nome_causa)
   
   grafico <- ggplot(dados_causa) +
     aes(x = ano, 
@@ -901,7 +907,7 @@ for (i in seq_along(ordem)) {
                                    linetype = "solid"),
           plot.background = element_rect(fill = "white"))
   
-  ggsave(paste0("fig_", i, ".png"), plot = grafico)
+  ggsave(paste0("fig_", i, ".pdf"), plot = grafico)
 }
 
 # fim graficos

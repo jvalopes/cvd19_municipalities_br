@@ -520,7 +520,7 @@ df_c5 <- df_c4 |>
 df_c6 <- na.omit(df_c5)
 
 # looping para plotar e salvar a motalidade proporconal para cada municipio
-setwd("C:/Users/User/Documents/GitHub/cvd19_municipalities_br/imgs")
+setwd("../imgs")
 
 munv <- unique(df_c6$mun)
 

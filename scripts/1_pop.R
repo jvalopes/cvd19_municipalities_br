@@ -8,7 +8,7 @@ dev.off()
 library(tidyverse) # pipe etc
 library(readxl) # read_xlsx
 
-dir <- "C:/Users/User/Desktop/covid_mx/raw/ProjMunic-2010_2030.xlsx"
+dir <- "C:/Users/User/Documents/GitHub/cvd19_municipalities_br/raw/ProjMunic-2010_2030.xlsx"
 
 df <- read_excel(dir) # projecoes populacionais para pequenas areas, Freire et al (2019)
 
@@ -142,7 +142,7 @@ pir_mun <- ggplot(df_pop3, aes(x = GrupoEtario, group = interaction(Sexo, Ano),
                                  size = 1, 
                                  linetype = "solid"))
 
-setwd("C:/Users/User/Desktop/covid_mx")
+setwd("../imgs")
 
 ggsave(filename = 'imgs/pop_sp2.pdf',
        plot = pir_mun,
