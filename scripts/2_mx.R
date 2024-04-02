@@ -847,7 +847,7 @@ logtbmp <- ggplot(ratest) +
   scale_x_continuous(breaks = seq(min(ratest$ano), 
                                   max(ratest$ano), 
                                   by = 5)) +
-  scale_color_manual(values = c("black", "darkred")) +
+  scale_color_manual(values = c("darkred", "black")) +
   labs(x = "", y = expression(logTBM[p])) +
   annotate("rect", 
            xmin = 2020 - .5, xmax = 2022 + .5, 
@@ -880,12 +880,12 @@ for (i in seq_along(ordem)) {
     aes(x = ano, 
         y = adj.rate, 
         color = sexo) +
-    geom_point(size = 1.5) + 
+    geom_point(size = 2) + 
     geom_errorbar(aes(ymin = adj.rate - lci, 
                       ymax = adj.rate + uci), 
                   width = 0, 
                   size = 1,
-                  alpha = 1) +
+                  alpha = .5) +
     annotate("rect", 
              xmin = 2020 - .5, xmax = 2022 + .5, 
              ymin = -Inf, ymax = Inf, 
@@ -897,9 +897,9 @@ for (i in seq_along(ordem)) {
                                     max(ratest$ano), 
                                     by = 2)) +
     #scale_y_continuous(breaks = seq(min(ratest$adj.rate), max(ratest$adj.rate), by = 1)) +
-    theme_grey(base_size = 14) +
+    theme_grey(base_size = 15) +
     guides(color = "none") +
-    scale_color_manual(values = c("black", "darkred")) +
+    scale_color_manual(values = c("darkred", "black")) +
     theme(legend.position = "top",
           axis.text.x = element_text(angle = 90, vjust = .5),
           axis.line = element_line(colour = "black", 
@@ -907,7 +907,10 @@ for (i in seq_along(ordem)) {
                                    linetype = "solid"),
           plot.background = element_rect(fill = "white"))
   
-  ggsave(paste0("fig_", i, ".pdf"), plot = grafico)
+  ggsave(paste0("fig_", i, ".png"), 
+         plot = grafico,
+         width = 10,
+         height = 4)
 }
 
 # fim graficos
