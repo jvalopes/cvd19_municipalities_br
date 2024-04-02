@@ -409,7 +409,7 @@ explr_causas2 <- ggplot(causa_tot) +
                                   by = 5))
 
 
-setwd("C:/Users/User/Desktop/covid_mx")
+setwd("C:/Users/User/Documents/GitHub/cvd19_municipalities_br")
 
 ggsave(filename = 'imgs/covid.pdf',
        plot = covid,
@@ -520,7 +520,7 @@ df_c5 <- df_c4 |>
 df_c6 <- na.omit(df_c5)
 
 # looping para plotar e salvar a motalidade proporconal para cada municipio
-setwd("C:/Users/User/Desktop/covid_mx/imgs")
+setwd("C:/Users/User/Documents/GitHub/cvd19_municipalities_br/imgs")
 
 munv <- unique(df_c6$mun)
 
