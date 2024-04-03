@@ -6647,49 +6647,63 @@
 2020,"Campinas","0-4","Masculino","(Outros)",63
 2020,"Campinas","0-4",NA,"(Outros)",2
 2020,"Campinas","10-14","Feminino","(Outros)",2
-2020,"Campinas","10-14","Masculino","(Outros)",4
+2020,"Campinas","10-14","Masculino","(B342)",1
+2020,"Campinas","10-14","Masculino","(Outros)",3
 2020,"Campinas","15-19","Feminino","(Outros)",8
+2020,"Campinas","15-19","Masculino","(B342)",1
 2020,"Campinas","15-19","Masculino","(G10-G99)",2
 2020,"Campinas","15-19","Masculino","(J45-J46)",1
-2020,"Campinas","15-19","Masculino","(Outros)",41
+2020,"Campinas","15-19","Masculino","(Outros)",40
+2020,"Campinas","20-24","Feminino","(B342)",1
 2020,"Campinas","20-24","Feminino","(E10-E14)",1
-2020,"Campinas","20-24","Feminino","(Outros)",17
-2020,"Campinas","20-24","Masculino","(Outros)",70
-2020,"Campinas","25-29","Feminino","(Outros)",27
+2020,"Campinas","20-24","Feminino","(Outros)",16
+2020,"Campinas","20-24","Masculino","(B342)",3
+2020,"Campinas","20-24","Masculino","(Outros)",67
+2020,"Campinas","25-29","Feminino","(B342)",5
+2020,"Campinas","25-29","Feminino","(Outros)",22
+2020,"Campinas","25-29","Masculino","(B342)",6
 2020,"Campinas","25-29","Masculino","(E66)",1
 2020,"Campinas","25-29","Masculino","(G10-G99)",1
 2020,"Campinas","25-29","Masculino","(N17-N19)",1
-2020,"Campinas","25-29","Masculino","(Outros)",70
+2020,"Campinas","25-29","Masculino","(Outros)",64
+2020,"Campinas","30-34","Feminino","(B342)",6
 2020,"Campinas","30-34","Feminino","(D80-D89)",1
 2020,"Campinas","30-34","Feminino","(E10-E14)",1
-2020,"Campinas","30-34","Feminino","(Outros)",35
+2020,"Campinas","30-34","Feminino","(Outros)",29
+2020,"Campinas","30-34","Masculino","(B342)",7
 2020,"Campinas","30-34","Masculino","(I20, I23-I25)",1
 2020,"Campinas","30-34","Masculino","(J45-J46)",1
 2020,"Campinas","30-34","Masculino","(N17-N19)",1
-2020,"Campinas","30-34","Masculino","(Outros)",79
+2020,"Campinas","30-34","Masculino","(Outros)",72
+2020,"Campinas","35-39","Feminino","(B342)",7
 2020,"Campinas","35-39","Feminino","(E10-E14)",2
 2020,"Campinas","35-39","Feminino","(E66)",1
 2020,"Campinas","35-39","Feminino","(J45-J46)",2
 2020,"Campinas","35-39","Feminino","(N17-N19)",1
-2020,"Campinas","35-39","Feminino","(Outros)",35
+2020,"Campinas","35-39","Feminino","(Outros)",28
+2020,"Campinas","35-39","Masculino","(B342)",18
 2020,"Campinas","35-39","Masculino","(E10-E14)",1
 2020,"Campinas","35-39","Masculino","(E66)",2
 2020,"Campinas","35-39","Masculino","(J45-J46)",1
-2020,"Campinas","35-39","Masculino","(Outros)",121
+2020,"Campinas","35-39","Masculino","(Outros)",103
+2020,"Campinas","40-44","Feminino","(B342)",8
 2020,"Campinas","40-44","Feminino","(E10-E14)",2
 2020,"Campinas","40-44","Feminino","(J40-J44)",1
 2020,"Campinas","40-44","Feminino","(J45-J46)",1
-2020,"Campinas","40-44","Feminino","(Outros)",65
+2020,"Campinas","40-44","Feminino","(Outros)",57
+2020,"Campinas","40-44","Masculino","(B342)",24
 2020,"Campinas","40-44","Masculino","(E10-E14)",4
 2020,"Campinas","40-44","Masculino","(E66)",1
 2020,"Campinas","40-44","Masculino","(G10-G99)",1
 2020,"Campinas","40-44","Masculino","(I20, I23-I25)",2
 2020,"Campinas","40-44","Masculino","(J45-J46)",1
 2020,"Campinas","40-44","Masculino","(N17-N19)",1
-2020,"Campinas","40-44","Masculino","(Outros)",133
+2020,"Campinas","40-44","Masculino","(Outros)",109
+2020,"Campinas","45-49","Feminino","(B342)",15
 2020,"Campinas","45-49","Feminino","(E10-E14)",3
 2020,"Campinas","45-49","Feminino","(N17-N19)",2
-2020,"Campinas","45-49","Feminino","(Outros)",99
+2020,"Campinas","45-49","Feminino","(Outros)",84
+2020,"Campinas","45-49","Masculino","(B342)",21
 2020,"Campinas","45-49","Masculino","(E10-E14)",4
 2020,"Campinas","45-49","Masculino","(E66)",1
 2020,"Campinas","45-49","Masculino","(G10-G99)",1
@@ -6697,10 +6711,12 @@
 2020,"Campinas","45-49","Masculino","(J09-J11)",1
 2020,"Campinas","45-49","Masculino","(J40-J44)",2
 2020,"Campinas","45-49","Masculino","(J45-J46)",2
-2020,"Campinas","45-49","Masculino","(Outros)",177
-2020,"Campinas","5-9","Feminino","(Outros)",2
+2020,"Campinas","45-49","Masculino","(Outros)",156
+2020,"Campinas","5-9","Feminino","(B342)",1
+2020,"Campinas","5-9","Feminino","(Outros)",1
 2020,"Campinas","5-9","Masculino","(G10-G99)",1
 2020,"Campinas","5-9","Masculino","(Outros)",2
+2020,"Campinas","50-54","Feminino","(B342)",33
 2020,"Campinas","50-54","Feminino","(E10-E14)",6
 2020,"Campinas","50-54","Feminino","(E66)",2
 2020,"Campinas","50-54","Feminino","(G10-G99)",3
@@ -6708,28 +6724,32 @@
 2020,"Campinas","50-54","Feminino","(I80-I82)",1
 2020,"Campinas","50-54","Feminino","(J40-J44)",1
 2020,"Campinas","50-54","Feminino","(J45-J46)",3
-2020,"Campinas","50-54","Feminino","(Outros)",134
+2020,"Campinas","50-54","Feminino","(Outros)",101
+2020,"Campinas","50-54","Masculino","(B342)",52
 2020,"Campinas","50-54","Masculino","(E10-E14)",7
 2020,"Campinas","50-54","Masculino","(E66)",1
 2020,"Campinas","50-54","Masculino","(G10-G99)",1
 2020,"Campinas","50-54","Masculino","(I20, I23-I25)",2
 2020,"Campinas","50-54","Masculino","(J40-J44)",4
 2020,"Campinas","50-54","Masculino","(J45-J46)",2
-2020,"Campinas","50-54","Masculino","(Outros)",249
+2020,"Campinas","50-54","Masculino","(Outros)",197
+2020,"Campinas","55-59","Feminino","(B342)",38
 2020,"Campinas","55-59","Feminino","(E10-E14)",9
 2020,"Campinas","55-59","Feminino","(G10-G99)",1
 2020,"Campinas","55-59","Feminino","(I20, I23-I25)",2
 2020,"Campinas","55-59","Feminino","(J40-J44)",4
 2020,"Campinas","55-59","Feminino","(J45-J46)",1
 2020,"Campinas","55-59","Feminino","(N17-N19)",3
-2020,"Campinas","55-59","Feminino","(Outros)",162
+2020,"Campinas","55-59","Feminino","(Outros)",124
+2020,"Campinas","55-59","Masculino","(B342)",64
 2020,"Campinas","55-59","Masculino","(E10-E14)",11
 2020,"Campinas","55-59","Masculino","(E66)",2
 2020,"Campinas","55-59","Masculino","(G10-G99)",2
 2020,"Campinas","55-59","Masculino","(I20, I23-I25)",6
 2020,"Campinas","55-59","Masculino","(J40-J44)",5
 2020,"Campinas","55-59","Masculino","(N17-N19)",1
-2020,"Campinas","55-59","Masculino","(Outros)",331
+2020,"Campinas","55-59","Masculino","(Outros)",267
+2020,"Campinas","60-64","Feminino","(B342)",63
 2020,"Campinas","60-64","Feminino","(D65-D77)",1
 2020,"Campinas","60-64","Feminino","(E10-E14)",15
 2020,"Campinas","60-64","Feminino","(E66)",1
@@ -6737,7 +6757,8 @@
 2020,"Campinas","60-64","Feminino","(I20, I23-I25)",2
 2020,"Campinas","60-64","Feminino","(J40-J44)",9
 2020,"Campinas","60-64","Feminino","(N17-N19)",4
-2020,"Campinas","60-64","Feminino","(Outros)",263
+2020,"Campinas","60-64","Feminino","(Outros)",200
+2020,"Campinas","60-64","Masculino","(B342)",101
 2020,"Campinas","60-64","Masculino","(D65-D77)",1
 2020,"Campinas","60-64","Masculino","(E10-E14)",16
 2020,"Campinas","60-64","Masculino","(E66)",3
@@ -6745,7 +6766,8 @@
 2020,"Campinas","60-64","Masculino","(I20, I23-I25)",4
 2020,"Campinas","60-64","Masculino","(J40-J44)",8
 2020,"Campinas","60-64","Masculino","(N17-N19)",5
-2020,"Campinas","60-64","Masculino","(Outros)",410
+2020,"Campinas","60-64","Masculino","(Outros)",309
+2020,"Campinas","65-69","Feminino","(B342)",91
 2020,"Campinas","65-69","Feminino","(D65-D77)",2
 2020,"Campinas","65-69","Feminino","(E10-E14)",14
 2020,"Campinas","65-69","Feminino","(G10-G99)",1
@@ -6754,7 +6776,8 @@
 2020,"Campinas","65-69","Feminino","(J40-J44)",12
 2020,"Campinas","65-69","Feminino","(J45-J46)",2
 2020,"Campinas","65-69","Feminino","(N17-N19)",3
-2020,"Campinas","65-69","Feminino","(Outros)",318
+2020,"Campinas","65-69","Feminino","(Outros)",227
+2020,"Campinas","65-69","Masculino","(B342)",117
 2020,"Campinas","65-69","Masculino","(E10-E14)",25
 2020,"Campinas","65-69","Masculino","(G10-G99)",7
 2020,"Campinas","65-69","Masculino","(I20, I23-I25)",5
@@ -6762,7 +6785,8 @@
 2020,"Campinas","65-69","Masculino","(J09-J11)",1
 2020,"Campinas","65-69","Masculino","(J40-J44)",18
 2020,"Campinas","65-69","Masculino","(N17-N19)",6
-2020,"Campinas","65-69","Masculino","(Outros)",471
+2020,"Campinas","65-69","Masculino","(Outros)",354
+2020,"Campinas","70-74","Feminino","(B342)",83
 2020,"Campinas","70-74","Feminino","(D65-D77)",1
 2020,"Campinas","70-74","Feminino","(E10-E14)",20
 2020,"Campinas","70-74","Feminino","(E66)",2
@@ -6771,7 +6795,8 @@
 2020,"Campinas","70-74","Feminino","(J40-J44)",11
 2020,"Campinas","70-74","Feminino","(J45-J46)",2
 2020,"Campinas","70-74","Feminino","(N17-N19)",1
-2020,"Campinas","70-74","Feminino","(Outros)",339
+2020,"Campinas","70-74","Feminino","(Outros)",256
+2020,"Campinas","70-74","Masculino","(B342)",116
 2020,"Campinas","70-74","Masculino","(D65-D77)",2
 2020,"Campinas","70-74","Masculino","(E10-E14)",19
 2020,"Campinas","70-74","Masculino","(E66)",2
@@ -6780,7 +6805,8 @@
 2020,"Campinas","70-74","Masculino","(J40-J44)",11
 2020,"Campinas","70-74","Masculino","(J45-J46)",2
 2020,"Campinas","70-74","Masculino","(N17-N19)",4
-2020,"Campinas","70-74","Masculino","(Outros)",451
+2020,"Campinas","70-74","Masculino","(Outros)",335
+2020,"Campinas","75-79","Feminino","(B342)",79
 2020,"Campinas","75-79","Feminino","(D65-D77)",2
 2020,"Campinas","75-79","Feminino","(E10-E14)",21
 2020,"Campinas","75-79","Feminino","(E66)",1
@@ -6789,14 +6815,16 @@
 2020,"Campinas","75-79","Feminino","(J40-J44)",13
 2020,"Campinas","75-79","Feminino","(J45-J46)",1
 2020,"Campinas","75-79","Feminino","(N17-N19)",3
-2020,"Campinas","75-79","Feminino","(Outros)",384
+2020,"Campinas","75-79","Feminino","(Outros)",305
+2020,"Campinas","75-79","Masculino","(B342)",121
 2020,"Campinas","75-79","Masculino","(D65-D77)",1
 2020,"Campinas","75-79","Masculino","(E10-E14)",26
 2020,"Campinas","75-79","Masculino","(G10-G99)",15
 2020,"Campinas","75-79","Masculino","(I20, I23-I25)",5
 2020,"Campinas","75-79","Masculino","(J40-J44)",20
 2020,"Campinas","75-79","Masculino","(N17-N19)",3
-2020,"Campinas","75-79","Masculino","(Outros)",434
+2020,"Campinas","75-79","Masculino","(Outros)",313
+2020,"Campinas","80+","Feminino","(B342)",234
 2020,"Campinas","80+","Feminino","(D65-D77)",1
 2020,"Campinas","80+","Feminino","(D80-D89)",1
 2020,"Campinas","80+","Feminino","(E10-E14)",54
@@ -6807,7 +6835,8 @@
 2020,"Campinas","80+","Feminino","(J40-J44)",38
 2020,"Campinas","80+","Feminino","(J45-J46)",6
 2020,"Campinas","80+","Feminino","(N17-N19)",18
-2020,"Campinas","80+","Feminino","(Outros)",1507
+2020,"Campinas","80+","Feminino","(Outros)",1273
+2020,"Campinas","80+","Masculino","(B342)",211
 2020,"Campinas","80+","Masculino","(E10-E14)",45
 2020,"Campinas","80+","Masculino","(G10-G99)",39
 2020,"Campinas","80+","Masculino","(I20, I23-I25)",21
@@ -6816,45 +6845,54 @@
 2020,"Campinas","80+","Masculino","(J40-J44)",35
 2020,"Campinas","80+","Masculino","(J45-J46)",3
 2020,"Campinas","80+","Masculino","(N17-N19)",20
-2020,"Campinas","80+","Masculino","(Outros)",1069
+2020,"Campinas","80+","Masculino","(Outros)",858
 2020,"Campinas",NA,"Masculino","(Outros)",1
+2020,"Guarulhos","0-4","Feminino","(B342)",2
 2020,"Guarulhos","0-4","Feminino","(G10-G99)",4
 2020,"Guarulhos","0-4","Feminino","(N17-N19)",1
-2020,"Guarulhos","0-4","Feminino","(Outros)",101
+2020,"Guarulhos","0-4","Feminino","(Outros)",99
 2020,"Guarulhos","0-4","Masculino","(D65-D77)",1
 2020,"Guarulhos","0-4","Masculino","(N17-N19)",1
 2020,"Guarulhos","0-4","Masculino","(Outros)",121
 2020,"Guarulhos","10-14","Feminino","(Outros)",4
 2020,"Guarulhos","10-14","Masculino","(G10-G99)",2
 2020,"Guarulhos","10-14","Masculino","(Outros)",8
+2020,"Guarulhos","15-19","Feminino","(B342)",2
 2020,"Guarulhos","15-19","Feminino","(G10-G99)",1
-2020,"Guarulhos","15-19","Feminino","(Outros)",14
+2020,"Guarulhos","15-19","Feminino","(Outros)",12
 2020,"Guarulhos","15-19","Masculino","(G10-G99)",1
 2020,"Guarulhos","15-19","Masculino","(J45-J46)",1
 2020,"Guarulhos","15-19","Masculino","(Outros)",66
+2020,"Guarulhos","20-24","Feminino","(B342)",5
 2020,"Guarulhos","20-24","Feminino","(G10-G99)",2
-2020,"Guarulhos","20-24","Feminino","(Outros)",35
+2020,"Guarulhos","20-24","Feminino","(Outros)",30
+2020,"Guarulhos","20-24","Masculino","(B342)",1
 2020,"Guarulhos","20-24","Masculino","(E10-E14)",2
 2020,"Guarulhos","20-24","Masculino","(I80-I82)",1
 2020,"Guarulhos","20-24","Masculino","(N17-N19)",1
-2020,"Guarulhos","20-24","Masculino","(Outros)",115
+2020,"Guarulhos","20-24","Masculino","(Outros)",114
+2020,"Guarulhos","25-29","Feminino","(B342)",4
 2020,"Guarulhos","25-29","Feminino","(E66)",1
-2020,"Guarulhos","25-29","Feminino","(Outros)",37
+2020,"Guarulhos","25-29","Feminino","(Outros)",33
+2020,"Guarulhos","25-29","Masculino","(B342)",5
 2020,"Guarulhos","25-29","Masculino","(E10-E14)",2
 2020,"Guarulhos","25-29","Masculino","(G10-G99)",1
 2020,"Guarulhos","25-29","Masculino","(I20, I23-I25)",1
 2020,"Guarulhos","25-29","Masculino","(J45-J46)",3
-2020,"Guarulhos","25-29","Masculino","(Outros)",91
+2020,"Guarulhos","25-29","Masculino","(Outros)",86
+2020,"Guarulhos","30-34","Feminino","(B342)",6
 2020,"Guarulhos","30-34","Feminino","(E10-E14)",1
 2020,"Guarulhos","30-34","Feminino","(E66)",1
 2020,"Guarulhos","30-34","Feminino","(I80-I82)",2
-2020,"Guarulhos","30-34","Feminino","(Outros)",41
+2020,"Guarulhos","30-34","Feminino","(Outros)",35
+2020,"Guarulhos","30-34","Masculino","(B342)",11
 2020,"Guarulhos","30-34","Masculino","(E10-E14)",3
 2020,"Guarulhos","30-34","Masculino","(E66)",1
 2020,"Guarulhos","30-34","Masculino","(J40-J44)",1
 2020,"Guarulhos","30-34","Masculino","(J45-J46)",3
 2020,"Guarulhos","30-34","Masculino","(N17-N19)",2
-2020,"Guarulhos","30-34","Masculino","(Outros)",118
+2020,"Guarulhos","30-34","Masculino","(Outros)",107
+2020,"Guarulhos","35-39","Feminino","(B342)",19
 2020,"Guarulhos","35-39","Feminino","(E10-E14)",3
 2020,"Guarulhos","35-39","Feminino","(E66)",2
 2020,"Guarulhos","35-39","Feminino","(G10-G99)",1
@@ -6862,16 +6900,19 @@
 2020,"Guarulhos","35-39","Feminino","(J40-J44)",1
 2020,"Guarulhos","35-39","Feminino","(J45-J46)",1
 2020,"Guarulhos","35-39","Feminino","(N17-N19)",1
-2020,"Guarulhos","35-39","Feminino","(Outros)",63
+2020,"Guarulhos","35-39","Feminino","(Outros)",44
+2020,"Guarulhos","35-39","Masculino","(B342)",19
 2020,"Guarulhos","35-39","Masculino","(E10-E14)",2
 2020,"Guarulhos","35-39","Masculino","(E66)",3
 2020,"Guarulhos","35-39","Masculino","(I20, I23-I25)",2
 2020,"Guarulhos","35-39","Masculino","(J40-J44)",1
 2020,"Guarulhos","35-39","Masculino","(N17-N19)",1
-2020,"Guarulhos","35-39","Masculino","(Outros)",145
+2020,"Guarulhos","35-39","Masculino","(Outros)",126
+2020,"Guarulhos","40-44","Feminino","(B342)",24
 2020,"Guarulhos","40-44","Feminino","(E10-E14)",3
 2020,"Guarulhos","40-44","Feminino","(J45-J46)",2
-2020,"Guarulhos","40-44","Feminino","(Outros)",134
+2020,"Guarulhos","40-44","Feminino","(Outros)",110
+2020,"Guarulhos","40-44","Masculino","(B342)",32
 2020,"Guarulhos","40-44","Masculino","(E10-E14)",3
 2020,"Guarulhos","40-44","Masculino","(E66)",1
 2020,"Guarulhos","40-44","Masculino","(G10-G99)",1
@@ -6879,12 +6920,14 @@
 2020,"Guarulhos","40-44","Masculino","(J40-J44)",1
 2020,"Guarulhos","40-44","Masculino","(J45-J46)",1
 2020,"Guarulhos","40-44","Masculino","(N17-N19)",1
-2020,"Guarulhos","40-44","Masculino","(Outros)",187
+2020,"Guarulhos","40-44","Masculino","(Outros)",155
+2020,"Guarulhos","45-49","Feminino","(B342)",31
 2020,"Guarulhos","45-49","Feminino","(E10-E14)",5
 2020,"Guarulhos","45-49","Feminino","(E66)",4
 2020,"Guarulhos","45-49","Feminino","(I20, I23-I25)",2
 2020,"Guarulhos","45-49","Feminino","(N17-N19)",1
-2020,"Guarulhos","45-49","Feminino","(Outros)",158
+2020,"Guarulhos","45-49","Feminino","(Outros)",127
+2020,"Guarulhos","45-49","Masculino","(B342)",56
 2020,"Guarulhos","45-49","Masculino","(E10-E14)",5
 2020,"Guarulhos","45-49","Masculino","(E66)",1
 2020,"Guarulhos","45-49","Masculino","(G10-G99)",5
@@ -6892,9 +6935,11 @@
 2020,"Guarulhos","45-49","Masculino","(J40-J44)",1
 2020,"Guarulhos","45-49","Masculino","(J45-J46)",1
 2020,"Guarulhos","45-49","Masculino","(N17-N19)",1
-2020,"Guarulhos","45-49","Masculino","(Outros)",270
+2020,"Guarulhos","45-49","Masculino","(Outros)",214
 2020,"Guarulhos","5-9","Feminino","(Outros)",7
-2020,"Guarulhos","5-9","Masculino","(Outros)",8
+2020,"Guarulhos","5-9","Masculino","(B342)",2
+2020,"Guarulhos","5-9","Masculino","(Outros)",6
+2020,"Guarulhos","50-54","Feminino","(B342)",43
 2020,"Guarulhos","50-54","Feminino","(E10-E14)",10
 2020,"Guarulhos","50-54","Feminino","(E66)",2
 2020,"Guarulhos","50-54","Feminino","(G10-G99)",1
@@ -6902,7 +6947,8 @@
 2020,"Guarulhos","50-54","Feminino","(J40-J44)",4
 2020,"Guarulhos","50-54","Feminino","(J45-J46)",1
 2020,"Guarulhos","50-54","Feminino","(N17-N19)",2
-2020,"Guarulhos","50-54","Feminino","(Outros)",177
+2020,"Guarulhos","50-54","Feminino","(Outros)",134
+2020,"Guarulhos","50-54","Masculino","(B342)",74
 2020,"Guarulhos","50-54","Masculino","(E10-E14)",12
 2020,"Guarulhos","50-54","Masculino","(E66)",3
 2020,"Guarulhos","50-54","Masculino","(G10-G99)",2
@@ -6910,7 +6956,8 @@
 2020,"Guarulhos","50-54","Masculino","(J09-J11)",1
 2020,"Guarulhos","50-54","Masculino","(J40-J44)",5
 2020,"Guarulhos","50-54","Masculino","(N17-N19)",4
-2020,"Guarulhos","50-54","Masculino","(Outros)",361
+2020,"Guarulhos","50-54","Masculino","(Outros)",287
+2020,"Guarulhos","55-59","Feminino","(B342)",48
 2020,"Guarulhos","55-59","Feminino","(E10-E14)",10
 2020,"Guarulhos","55-59","Feminino","(E66)",2
 2020,"Guarulhos","55-59","Feminino","(G10-G99)",3
@@ -6918,7 +6965,8 @@
 2020,"Guarulhos","55-59","Feminino","(J40-J44)",4
 2020,"Guarulhos","55-59","Feminino","(J45-J46)",1
 2020,"Guarulhos","55-59","Feminino","(N17-N19)",4
-2020,"Guarulhos","55-59","Feminino","(Outros)",247
+2020,"Guarulhos","55-59","Feminino","(Outros)",199
+2020,"Guarulhos","55-59","Masculino","(B342)",102
 2020,"Guarulhos","55-59","Masculino","(E10-E14)",14
 2020,"Guarulhos","55-59","Masculino","(E66)",1
 2020,"Guarulhos","55-59","Masculino","(G10-G99)",2
@@ -6927,7 +6975,8 @@
 2020,"Guarulhos","55-59","Masculino","(J40-J44)",6
 2020,"Guarulhos","55-59","Masculino","(J45-J46)",1
 2020,"Guarulhos","55-59","Masculino","(N17-N19)",4
-2020,"Guarulhos","55-59","Masculino","(Outros)",451
+2020,"Guarulhos","55-59","Masculino","(Outros)",349
+2020,"Guarulhos","60-64","Feminino","(B342)",88
 2020,"Guarulhos","60-64","Feminino","(E10-E14)",11
 2020,"Guarulhos","60-64","Feminino","(E66)",4
 2020,"Guarulhos","60-64","Feminino","(G10-G99)",3
@@ -6937,7 +6986,8 @@
 2020,"Guarulhos","60-64","Feminino","(J40-J44)",9
 2020,"Guarulhos","60-64","Feminino","(J45-J46)",1
 2020,"Guarulhos","60-64","Feminino","(N17-N19)",4
-2020,"Guarulhos","60-64","Feminino","(Outros)",360
+2020,"Guarulhos","60-64","Feminino","(Outros)",272
+2020,"Guarulhos","60-64","Masculino","(B342)",139
 2020,"Guarulhos","60-64","Masculino","(E10-E14)",22
 2020,"Guarulhos","60-64","Masculino","(E66)",2
 2020,"Guarulhos","60-64","Masculino","(G10-G99)",4
@@ -6945,7 +6995,8 @@
 2020,"Guarulhos","60-64","Masculino","(J40-J44)",7
 2020,"Guarulhos","60-64","Masculino","(J45-J46)",1
 2020,"Guarulhos","60-64","Masculino","(N17-N19)",2
-2020,"Guarulhos","60-64","Masculino","(Outros)",492
+2020,"Guarulhos","60-64","Masculino","(Outros)",353
+2020,"Guarulhos","65-69","Feminino","(B342)",105
 2020,"Guarulhos","65-69","Feminino","(D65-D77)",1
 2020,"Guarulhos","65-69","Feminino","(E10-E14)",10
 2020,"Guarulhos","65-69","Feminino","(E66)",2
@@ -6955,7 +7006,8 @@
 2020,"Guarulhos","65-69","Feminino","(J40-J44)",10
 2020,"Guarulhos","65-69","Feminino","(J45-J46)",1
 2020,"Guarulhos","65-69","Feminino","(N17-N19)",5
-2020,"Guarulhos","65-69","Feminino","(Outros)",422
+2020,"Guarulhos","65-69","Feminino","(Outros)",317
+2020,"Guarulhos","65-69","Masculino","(B342)",149
 2020,"Guarulhos","65-69","Masculino","(E10-E14)",15
 2020,"Guarulhos","65-69","Masculino","(G10-G99)",4
 2020,"Guarulhos","65-69","Masculino","(I20, I23-I25)",8
@@ -6963,7 +7015,8 @@
 2020,"Guarulhos","65-69","Masculino","(J40-J44)",14
 2020,"Guarulhos","65-69","Masculino","(J45-J46)",1
 2020,"Guarulhos","65-69","Masculino","(N17-N19)",4
-2020,"Guarulhos","65-69","Masculino","(Outros)",582
+2020,"Guarulhos","65-69","Masculino","(Outros)",433
+2020,"Guarulhos","70-74","Feminino","(B342)",98
 2020,"Guarulhos","70-74","Feminino","(D65-D77)",1
 2020,"Guarulhos","70-74","Feminino","(E10-E14)",24
 2020,"Guarulhos","70-74","Feminino","(E66)",1
@@ -6971,7 +7024,8 @@
 2020,"Guarulhos","70-74","Feminino","(I20, I23-I25)",8
 2020,"Guarulhos","70-74","Feminino","(I80-I82)",1
 2020,"Guarulhos","70-74","Feminino","(J40-J44)",19
-2020,"Guarulhos","70-74","Feminino","(Outros)",400
+2020,"Guarulhos","70-74","Feminino","(Outros)",302
+2020,"Guarulhos","70-74","Masculino","(B342)",145
 2020,"Guarulhos","70-74","Masculino","(D65-D77)",1
 2020,"Guarulhos","70-74","Masculino","(E10-E14)",29
 2020,"Guarulhos","70-74","Masculino","(E66)",2
@@ -6981,14 +7035,16 @@
 2020,"Guarulhos","70-74","Masculino","(J09-J11)",1
 2020,"Guarulhos","70-74","Masculino","(J40-J44)",23
 2020,"Guarulhos","70-74","Masculino","(N17-N19)",6
-2020,"Guarulhos","70-74","Masculino","(Outros)",550
+2020,"Guarulhos","70-74","Masculino","(Outros)",405
+2020,"Guarulhos","75-79","Feminino","(B342)",72
 2020,"Guarulhos","75-79","Feminino","(E10-E14)",21
 2020,"Guarulhos","75-79","Feminino","(I20, I23-I25)",5
 2020,"Guarulhos","75-79","Feminino","(I80-I82)",1
 2020,"Guarulhos","75-79","Feminino","(J40-J44)",17
 2020,"Guarulhos","75-79","Feminino","(J45-J46)",1
 2020,"Guarulhos","75-79","Feminino","(N17-N19)",5
-2020,"Guarulhos","75-79","Feminino","(Outros)",382
+2020,"Guarulhos","75-79","Feminino","(Outros)",310
+2020,"Guarulhos","75-79","Masculino","(B342)",126
 2020,"Guarulhos","75-79","Masculino","(D65-D77)",1
 2020,"Guarulhos","75-79","Masculino","(E10-E14)",17
 2020,"Guarulhos","75-79","Masculino","(E66)",1
@@ -6997,7 +7053,8 @@
 2020,"Guarulhos","75-79","Masculino","(J40-J44)",10
 2020,"Guarulhos","75-79","Masculino","(J45-J46)",2
 2020,"Guarulhos","75-79","Masculino","(N17-N19)",8
-2020,"Guarulhos","75-79","Masculino","(Outros)",443
+2020,"Guarulhos","75-79","Masculino","(Outros)",317
+2020,"Guarulhos","80+","Feminino","(B342)",230
 2020,"Guarulhos","80+","Feminino","(E10-E14)",57
 2020,"Guarulhos","80+","Feminino","(E66)",1
 2020,"Guarulhos","80+","Feminino","(G10-G99)",12
@@ -7007,7 +7064,8 @@
 2020,"Guarulhos","80+","Feminino","(J40-J44)",32
 2020,"Guarulhos","80+","Feminino","(J45-J46)",2
 2020,"Guarulhos","80+","Feminino","(N17-N19)",11
-2020,"Guarulhos","80+","Feminino","(Outros)",1174
+2020,"Guarulhos","80+","Feminino","(Outros)",944
+2020,"Guarulhos","80+","Masculino","(B342)",194
 2020,"Guarulhos","80+","Masculino","(E10-E14)",34
 2020,"Guarulhos","80+","Masculino","(E66)",1
 2020,"Guarulhos","80+","Masculino","(G10-G99)",7
@@ -7017,56 +7075,65 @@
 2020,"Guarulhos","80+","Masculino","(J40-J44)",24
 2020,"Guarulhos","80+","Masculino","(J45-J46)",4
 2020,"Guarulhos","80+","Masculino","(N17-N19)",16
-2020,"Guarulhos","80+","Masculino","(Outros)",814
+2020,"Guarulhos","80+","Masculino","(Outros)",620
 2020,"Guarulhos",NA,"Masculino","(Outros)",2
 2020,"Guarulhos",NA,NA,"(Outros)",1
+2020,"São Paulo","0-4","Feminino","(B342)",6
 2020,"São Paulo","0-4","Feminino","(D65-D77)",3
 2020,"São Paulo","0-4","Feminino","(D80-D89)",1
 2020,"São Paulo","0-4","Feminino","(G10-G99)",6
 2020,"São Paulo","0-4","Feminino","(J40-J44)",1
-2020,"São Paulo","0-4","Feminino","(Outros)",747
+2020,"São Paulo","0-4","Feminino","(Outros)",741
+2020,"São Paulo","0-4","Masculino","(B342)",9
 2020,"São Paulo","0-4","Masculino","(D65-D77)",1
 2020,"São Paulo","0-4","Masculino","(G10-G99)",2
 2020,"São Paulo","0-4","Masculino","(J09-J11)",1
 2020,"São Paulo","0-4","Masculino","(J45-J46)",2
 2020,"São Paulo","0-4","Masculino","(N17-N19)",3
-2020,"São Paulo","0-4","Masculino","(Outros)",882
+2020,"São Paulo","0-4","Masculino","(Outros)",873
 2020,"São Paulo","0-4",NA,"(Outros)",2
+2020,"São Paulo","10-14","Feminino","(B342)",2
 2020,"São Paulo","10-14","Feminino","(D65-D77)",1
 2020,"São Paulo","10-14","Feminino","(G10-G99)",5
 2020,"São Paulo","10-14","Feminino","(N17-N19)",1
-2020,"São Paulo","10-14","Feminino","(Outros)",66
+2020,"São Paulo","10-14","Feminino","(Outros)",64
+2020,"São Paulo","10-14","Masculino","(B342)",4
 2020,"São Paulo","10-14","Masculino","(D65-D77)",1
 2020,"São Paulo","10-14","Masculino","(G10-G99)",3
 2020,"São Paulo","10-14","Masculino","(J09-J11)",1
 2020,"São Paulo","10-14","Masculino","(J40-J44)",1
-2020,"São Paulo","10-14","Masculino","(Outros)",82
+2020,"São Paulo","10-14","Masculino","(Outros)",78
+2020,"São Paulo","15-19","Feminino","(B342)",8
 2020,"São Paulo","15-19","Feminino","(E10-E14)",3
 2020,"São Paulo","15-19","Feminino","(E66)",1
 2020,"São Paulo","15-19","Feminino","(G10-G99)",4
 2020,"São Paulo","15-19","Feminino","(I20, I23-I25)",1
 2020,"São Paulo","15-19","Feminino","(J45-J46)",1
-2020,"São Paulo","15-19","Feminino","(Outros)",166
+2020,"São Paulo","15-19","Feminino","(Outros)",158
+2020,"São Paulo","15-19","Masculino","(B342)",6
 2020,"São Paulo","15-19","Masculino","(E10-E14)",1
 2020,"São Paulo","15-19","Masculino","(G10-G99)",9
 2020,"São Paulo","15-19","Masculino","(I20, I23-I25)",8
 2020,"São Paulo","15-19","Masculino","(J40-J44)",1
 2020,"São Paulo","15-19","Masculino","(J45-J46)",1
-2020,"São Paulo","15-19","Masculino","(Outros)",482
+2020,"São Paulo","15-19","Masculino","(Outros)",476
+2020,"São Paulo","20-24","Feminino","(B342)",15
 2020,"São Paulo","20-24","Feminino","(D65-D77)",1
 2020,"São Paulo","20-24","Feminino","(E10-E14)",4
 2020,"São Paulo","20-24","Feminino","(G10-G99)",6
 2020,"São Paulo","20-24","Feminino","(I20, I23-I25)",1
 2020,"São Paulo","20-24","Feminino","(I80-I82)",1
 2020,"São Paulo","20-24","Feminino","(J40-J44)",2
-2020,"São Paulo","20-24","Feminino","(Outros)",284
+2020,"São Paulo","20-24","Feminino","(Outros)",269
+2020,"São Paulo","20-24","Masculino","(B342)",17
 2020,"São Paulo","20-24","Masculino","(E10-E14)",6
 2020,"São Paulo","20-24","Masculino","(E66)",1
 2020,"São Paulo","20-24","Masculino","(G10-G99)",11
 2020,"São Paulo","20-24","Masculino","(I20, I23-I25)",9
 2020,"São Paulo","20-24","Masculino","(J45-J46)",1
 2020,"São Paulo","20-24","Masculino","(N17-N19)",1
-2020,"São Paulo","20-24","Masculino","(Outros)",877
+2020,"São Paulo","20-24","Masculino","(Outros)",860
+2020,"São Paulo","25-29","Feminino","(B342)",25
 2020,"São Paulo","25-29","Feminino","(D65-D77)",2
 2020,"São Paulo","25-29","Feminino","(E10-E14)",10
 2020,"São Paulo","25-29","Feminino","(E66)",1
@@ -7075,7 +7142,8 @@
 2020,"São Paulo","25-29","Feminino","(I80-I82)",1
 2020,"São Paulo","25-29","Feminino","(J45-J46)",1
 2020,"São Paulo","25-29","Feminino","(N17-N19)",2
-2020,"São Paulo","25-29","Feminino","(Outros)",328
+2020,"São Paulo","25-29","Feminino","(Outros)",303
+2020,"São Paulo","25-29","Masculino","(B342)",28
 2020,"São Paulo","25-29","Masculino","(D65-D77)",1
 2020,"São Paulo","25-29","Masculino","(D80-D89)",1
 2020,"São Paulo","25-29","Masculino","(E10-E14)",9
@@ -7085,7 +7153,8 @@
 2020,"São Paulo","25-29","Masculino","(J40-J44)",1
 2020,"São Paulo","25-29","Masculino","(J45-J46)",1
 2020,"São Paulo","25-29","Masculino","(N17-N19)",3
-2020,"São Paulo","25-29","Masculino","(Outros)",787
+2020,"São Paulo","25-29","Masculino","(Outros)",759
+2020,"São Paulo","30-34","Feminino","(B342)",55
 2020,"São Paulo","30-34","Feminino","(D65-D77)",2
 2020,"São Paulo","30-34","Feminino","(E10-E14)",9
 2020,"São Paulo","30-34","Feminino","(E66)",4
@@ -7095,7 +7164,8 @@
 2020,"São Paulo","30-34","Feminino","(J40-J44)",1
 2020,"São Paulo","30-34","Feminino","(J45-J46)",1
 2020,"São Paulo","30-34","Feminino","(N17-N19)",3
-2020,"São Paulo","30-34","Feminino","(Outros)",425
+2020,"São Paulo","30-34","Feminino","(Outros)",370
+2020,"São Paulo","30-34","Masculino","(B342)",84
 2020,"São Paulo","30-34","Masculino","(D65-D77)",4
 2020,"São Paulo","30-34","Masculino","(E10-E14)",9
 2020,"São Paulo","30-34","Masculino","(E66)",8
@@ -7104,7 +7174,8 @@
 2020,"São Paulo","30-34","Masculino","(J40-J44)",1
 2020,"São Paulo","30-34","Masculino","(J45-J46)",2
 2020,"São Paulo","30-34","Masculino","(N17-N19)",2
-2020,"São Paulo","30-34","Masculino","(Outros)",1008
+2020,"São Paulo","30-34","Masculino","(Outros)",924
+2020,"São Paulo","35-39","Feminino","(B342)",80
 2020,"São Paulo","35-39","Feminino","(D65-D77)",2
 2020,"São Paulo","35-39","Feminino","(E10-E14)",13
 2020,"São Paulo","35-39","Feminino","(E66)",10
@@ -7115,7 +7186,8 @@
 2020,"São Paulo","35-39","Feminino","(J40-J44)",4
 2020,"São Paulo","35-39","Feminino","(J45-J46)",3
 2020,"São Paulo","35-39","Feminino","(N17-N19)",1
-2020,"São Paulo","35-39","Feminino","(Outros)",561
+2020,"São Paulo","35-39","Feminino","(Outros)",481
+2020,"São Paulo","35-39","Masculino","(B342)",140
 2020,"São Paulo","35-39","Masculino","(E10-E14)",20
 2020,"São Paulo","35-39","Masculino","(E66)",10
 2020,"São Paulo","35-39","Masculino","(G10-G99)",7
@@ -7125,7 +7197,8 @@
 2020,"São Paulo","35-39","Masculino","(J40-J44)",5
 2020,"São Paulo","35-39","Masculino","(J45-J46)",5
 2020,"São Paulo","35-39","Masculino","(N17-N19)",2
-2020,"São Paulo","35-39","Masculino","(Outros)",1227
+2020,"São Paulo","35-39","Masculino","(Outros)",1087
+2020,"São Paulo","40-44","Feminino","(B342)",135
 2020,"São Paulo","40-44","Feminino","(D65-D77)",3
 2020,"São Paulo","40-44","Feminino","(E10-E14)",17
 2020,"São Paulo","40-44","Feminino","(E66)",7
@@ -7136,7 +7209,8 @@
 2020,"São Paulo","40-44","Feminino","(J40-J44)",5
 2020,"São Paulo","40-44","Feminino","(J45-J46)",2
 2020,"São Paulo","40-44","Feminino","(N17-N19)",4
-2020,"São Paulo","40-44","Feminino","(Outros)",864
+2020,"São Paulo","40-44","Feminino","(Outros)",729
+2020,"São Paulo","40-44","Masculino","(B342)",230
 2020,"São Paulo","40-44","Masculino","(D65-D77)",2
 2020,"São Paulo","40-44","Masculino","(E10-E14)",22
 2020,"São Paulo","40-44","Masculino","(E66)",15
@@ -7146,7 +7220,8 @@
 2020,"São Paulo","40-44","Masculino","(J40-J44)",8
 2020,"São Paulo","40-44","Masculino","(J45-J46)",3
 2020,"São Paulo","40-44","Masculino","(N17-N19)",13
-2020,"São Paulo","40-44","Masculino","(Outros)",1526
+2020,"São Paulo","40-44","Masculino","(Outros)",1296
+2020,"São Paulo","45-49","Feminino","(B342)",154
 2020,"São Paulo","45-49","Feminino","(D65-D77)",3
 2020,"São Paulo","45-49","Feminino","(E10-E14)",24
 2020,"São Paulo","45-49","Feminino","(E66)",12
@@ -7156,7 +7231,8 @@
 2020,"São Paulo","45-49","Feminino","(J40-J44)",4
 2020,"São Paulo","45-49","Feminino","(J45-J46)",5
 2020,"São Paulo","45-49","Feminino","(N17-N19)",4
-2020,"São Paulo","45-49","Feminino","(Outros)",1050
+2020,"São Paulo","45-49","Feminino","(Outros)",896
+2020,"São Paulo","45-49","Masculino","(B342)",293
 2020,"São Paulo","45-49","Masculino","(D65-D77)",1
 2020,"São Paulo","45-49","Masculino","(E10-E14)",53
 2020,"São Paulo","45-49","Masculino","(E66)",8
@@ -7167,11 +7243,14 @@
 2020,"São Paulo","45-49","Masculino","(J40-J44)",4
 2020,"São Paulo","45-49","Masculino","(J45-J46)",4
 2020,"São Paulo","45-49","Masculino","(N17-N19)",9
-2020,"São Paulo","45-49","Masculino","(Outros)",1931
+2020,"São Paulo","45-49","Masculino","(Outros)",1638
+2020,"São Paulo","5-9","Feminino","(B342)",1
 2020,"São Paulo","5-9","Feminino","(D65-D77)",2
-2020,"São Paulo","5-9","Feminino","(Outros)",37
+2020,"São Paulo","5-9","Feminino","(Outros)",36
+2020,"São Paulo","5-9","Masculino","(B342)",5
 2020,"São Paulo","5-9","Masculino","(G10-G99)",1
-2020,"São Paulo","5-9","Masculino","(Outros)",50
+2020,"São Paulo","5-9","Masculino","(Outros)",45
+2020,"São Paulo","50-54","Feminino","(B342)",244
 2020,"São Paulo","50-54","Feminino","(D65-D77)",1
 2020,"São Paulo","50-54","Feminino","(E10-E14)",48
 2020,"São Paulo","50-54","Feminino","(E66)",7
@@ -7182,7 +7261,8 @@
 2020,"São Paulo","50-54","Feminino","(J40-J44)",10
 2020,"São Paulo","50-54","Feminino","(J45-J46)",3
 2020,"São Paulo","50-54","Feminino","(N17-N19)",5
-2020,"São Paulo","50-54","Feminino","(Outros)",1437
+2020,"São Paulo","50-54","Feminino","(Outros)",1193
+2020,"São Paulo","50-54","Masculino","(B342)",464
 2020,"São Paulo","50-54","Masculino","(D65-D77)",2
 2020,"São Paulo","50-54","Masculino","(E10-E14)",77
 2020,"São Paulo","50-54","Masculino","(E66)",12
@@ -7193,7 +7273,8 @@
 2020,"São Paulo","50-54","Masculino","(J40-J44)",25
 2020,"São Paulo","50-54","Masculino","(J45-J46)",2
 2020,"São Paulo","50-54","Masculino","(N17-N19)",18
-2020,"São Paulo","50-54","Masculino","(Outros)",2703
+2020,"São Paulo","50-54","Masculino","(Outros)",2239
+2020,"São Paulo","55-59","Feminino","(B342)",359
 2020,"São Paulo","55-59","Feminino","(D65-D77)",5
 2020,"São Paulo","55-59","Feminino","(E10-E14)",71
 2020,"São Paulo","55-59","Feminino","(E66)",17
@@ -7204,7 +7285,8 @@
 2020,"São Paulo","55-59","Feminino","(J40-J44)",27
 2020,"São Paulo","55-59","Feminino","(J45-J46)",7
 2020,"São Paulo","55-59","Feminino","(N17-N19)",18
-2020,"São Paulo","55-59","Feminino","(Outros)",2124
+2020,"São Paulo","55-59","Feminino","(Outros)",1765
+2020,"São Paulo","55-59","Masculino","(B342)",626
 2020,"São Paulo","55-59","Masculino","(D65-D77)",5
 2020,"São Paulo","55-59","Masculino","(E10-E14)",136
 2020,"São Paulo","55-59","Masculino","(E66)",6
@@ -7215,7 +7297,8 @@
 2020,"São Paulo","55-59","Masculino","(J40-J44)",39
 2020,"São Paulo","55-59","Masculino","(J45-J46)",2
 2020,"São Paulo","55-59","Masculino","(N17-N19)",24
-2020,"São Paulo","55-59","Masculino","(Outros)",3466
+2020,"São Paulo","55-59","Masculino","(Outros)",2840
+2020,"São Paulo","60-64","Feminino","(B342)",518
 2020,"São Paulo","60-64","Feminino","(D65-D77)",4
 2020,"São Paulo","60-64","Feminino","(E10-E14)",116
 2020,"São Paulo","60-64","Feminino","(E66)",14
@@ -7225,7 +7308,8 @@
 2020,"São Paulo","60-64","Feminino","(J40-J44)",67
 2020,"São Paulo","60-64","Feminino","(J45-J46)",8
 2020,"São Paulo","60-64","Feminino","(N17-N19)",12
-2020,"São Paulo","60-64","Feminino","(Outros)",2903
+2020,"São Paulo","60-64","Feminino","(Outros)",2385
+2020,"São Paulo","60-64","Masculino","(B342)",901
 2020,"São Paulo","60-64","Masculino","(D65-D77)",3
 2020,"São Paulo","60-64","Masculino","(E10-E14)",172
 2020,"São Paulo","60-64","Masculino","(E66)",9
@@ -7236,8 +7320,9 @@
 2020,"São Paulo","60-64","Masculino","(J40-J44)",72
 2020,"São Paulo","60-64","Masculino","(J45-J46)",5
 2020,"São Paulo","60-64","Masculino","(N17-N19)",31
-2020,"São Paulo","60-64","Masculino","(Outros)",4412
+2020,"São Paulo","60-64","Masculino","(Outros)",3511
 2020,"São Paulo","60-64",NA,"(Outros)",1
+2020,"São Paulo","65-69","Feminino","(B342)",676
 2020,"São Paulo","65-69","Feminino","(D65-D77)",7
 2020,"São Paulo","65-69","Feminino","(D80-D89)",1
 2020,"São Paulo","65-69","Feminino","(E10-E14)",138
@@ -7249,7 +7334,8 @@
 2020,"São Paulo","65-69","Feminino","(J40-J44)",105
 2020,"São Paulo","65-69","Feminino","(J45-J46)",6
 2020,"São Paulo","65-69","Feminino","(N17-N19)",19
-2020,"São Paulo","65-69","Feminino","(Outros)",3495
+2020,"São Paulo","65-69","Feminino","(Outros)",2819
+2020,"São Paulo","65-69","Masculino","(B342)",1042
 2020,"São Paulo","65-69","Masculino","(D65-D77)",5
 2020,"São Paulo","65-69","Masculino","(E10-E14)",202
 2020,"São Paulo","65-69","Masculino","(E66)",8
@@ -7260,8 +7346,9 @@
 2020,"São Paulo","65-69","Masculino","(J40-J44)",96
 2020,"São Paulo","65-69","Masculino","(J45-J46)",4
 2020,"São Paulo","65-69","Masculino","(N17-N19)",31
-2020,"São Paulo","65-69","Masculino","(Outros)",4905
+2020,"São Paulo","65-69","Masculino","(Outros)",3863
 2020,"São Paulo","65-69",NA,"(Outros)",1
+2020,"São Paulo","70-74","Feminino","(B342)",768
 2020,"São Paulo","70-74","Feminino","(D65-D77)",5
 2020,"São Paulo","70-74","Feminino","(D80-D89)",1
 2020,"São Paulo","70-74","Feminino","(E10-E14)",172
@@ -7273,7 +7360,8 @@
 2020,"São Paulo","70-74","Feminino","(J40-J44)",96
 2020,"São Paulo","70-74","Feminino","(J45-J46)",5
 2020,"São Paulo","70-74","Feminino","(N17-N19)",29
-2020,"São Paulo","70-74","Feminino","(Outros)",3992
+2020,"São Paulo","70-74","Feminino","(Outros)",3224
+2020,"São Paulo","70-74","Masculino","(B342)",1125
 2020,"São Paulo","70-74","Masculino","(D65-D77)",4
 2020,"São Paulo","70-74","Masculino","(D80-D89)",1
 2020,"São Paulo","70-74","Masculino","(E10-E14)",179
@@ -7284,9 +7372,11 @@
 2020,"São Paulo","70-74","Masculino","(J40-J44)",123
 2020,"São Paulo","70-74","Masculino","(J45-J46)",5
 2020,"São Paulo","70-74","Masculino","(N17-N19)",35
-2020,"São Paulo","70-74","Masculino","(Outros)",4837
+2020,"São Paulo","70-74","Masculino","(Outros)",3712
+2020,"São Paulo","70-74",NA,"(B342)",1
 2020,"São Paulo","70-74",NA,"(J40-J44)",1
-2020,"São Paulo","70-74",NA,"(Outros)",2
+2020,"São Paulo","70-74",NA,"(Outros)",1
+2020,"São Paulo","75-79","Feminino","(B342)",812
 2020,"São Paulo","75-79","Feminino","(D65-D77)",5
 2020,"São Paulo","75-79","Feminino","(E10-E14)",209
 2020,"São Paulo","75-79","Feminino","(E66)",14
@@ -7297,7 +7387,8 @@
 2020,"São Paulo","75-79","Feminino","(J40-J44)",126
 2020,"São Paulo","75-79","Feminino","(J45-J46)",4
 2020,"São Paulo","75-79","Feminino","(N17-N19)",25
-2020,"São Paulo","75-79","Feminino","(Outros)",4308
+2020,"São Paulo","75-79","Feminino","(Outros)",3496
+2020,"São Paulo","75-79","Masculino","(B342)",986
 2020,"São Paulo","75-79","Masculino","(D65-D77)",3
 2020,"São Paulo","75-79","Masculino","(E10-E14)",171
 2020,"São Paulo","75-79","Masculino","(E66)",1
@@ -7308,8 +7399,10 @@
 2020,"São Paulo","75-79","Masculino","(J40-J44)",118
 2020,"São Paulo","75-79","Masculino","(J45-J46)",2
 2020,"São Paulo","75-79","Masculino","(N17-N19)",40
-2020,"São Paulo","75-79","Masculino","(Outros)",4540
-2020,"São Paulo","75-79",NA,"(Outros)",2
+2020,"São Paulo","75-79","Masculino","(Outros)",3554
+2020,"São Paulo","75-79",NA,"(B342)",1
+2020,"São Paulo","75-79",NA,"(Outros)",1
+2020,"São Paulo","80+","Feminino","(B342)",2398
 2020,"São Paulo","80+","Feminino","(D65-D77)",15
 2020,"São Paulo","80+","Feminino","(D80-D89)",1
 2020,"São Paulo","80+","Feminino","(E10-E14)",636
@@ -7321,7 +7414,8 @@
 2020,"São Paulo","80+","Feminino","(J40-J44)",296
 2020,"São Paulo","80+","Feminino","(J45-J46)",29
 2020,"São Paulo","80+","Feminino","(N17-N19)",147
-2020,"São Paulo","80+","Feminino","(Outros)",17224
+2020,"São Paulo","80+","Feminino","(Outros)",14826
+2020,"São Paulo","80+","Masculino","(B342)",2078
 2020,"São Paulo","80+","Masculino","(D65-D77)",12
 2020,"São Paulo","80+","Masculino","(D80-D89)",1
 2020,"São Paulo","80+","Masculino","(E10-E14)",333
@@ -7333,8 +7427,9 @@
 2020,"São Paulo","80+","Masculino","(J40-J44)",327
 2020,"São Paulo","80+","Masculino","(J45-J46)",7
 2020,"São Paulo","80+","Masculino","(N17-N19)",109
-2020,"São Paulo","80+","Masculino","(Outros)",10898
-2020,"São Paulo","80+",NA,"(Outros)",4
+2020,"São Paulo","80+","Masculino","(Outros)",8820
+2020,"São Paulo","80+",NA,"(B342)",1
+2020,"São Paulo","80+",NA,"(Outros)",3
 2020,"São Paulo",NA,"Feminino","(Outros)",21
 2020,"São Paulo",NA,"Masculino","(E10-E14)",1
 2020,"São Paulo",NA,"Masculino","(I20, I23-I25)",5
@@ -7342,30 +7437,41 @@
 2020,"São Paulo",NA,NA,"(Outros)",3
 2021,"Campinas","0-4","Feminino","(G10-G99)",1
 2021,"Campinas","0-4","Feminino","(Outros)",68
-2021,"Campinas","0-4","Masculino","(Outros)",69
+2021,"Campinas","0-4","Masculino","(B342)",1
+2021,"Campinas","0-4","Masculino","(Outros)",68
+2021,"Campinas","10-14","Feminino","(B342)",1
 2021,"Campinas","10-14","Feminino","(J09-J11)",1
-2021,"Campinas","10-14","Feminino","(Outros)",4
+2021,"Campinas","10-14","Feminino","(Outros)",3
 2021,"Campinas","10-14","Masculino","(E66)",1
 2021,"Campinas","10-14","Masculino","(J45-J46)",1
 2021,"Campinas","10-14","Masculino","(Outros)",5
-2021,"Campinas","15-19","Feminino","(Outros)",18
-2021,"Campinas","15-19","Masculino","(Outros)",35
+2021,"Campinas","15-19","Feminino","(B342)",3
+2021,"Campinas","15-19","Feminino","(Outros)",15
+2021,"Campinas","15-19","Masculino","(B342)",2
+2021,"Campinas","15-19","Masculino","(Outros)",33
+2021,"Campinas","20-24","Feminino","(B342)",6
 2021,"Campinas","20-24","Feminino","(J40-J44)",1
 2021,"Campinas","20-24","Feminino","(J45-J46)",1
-2021,"Campinas","20-24","Feminino","(Outros)",23
+2021,"Campinas","20-24","Feminino","(Outros)",17
+2021,"Campinas","20-24","Masculino","(B342)",2
 2021,"Campinas","20-24","Masculino","(E10-E14)",1
 2021,"Campinas","20-24","Masculino","(E66)",1
-2021,"Campinas","20-24","Masculino","(Outros)",53
+2021,"Campinas","20-24","Masculino","(Outros)",51
+2021,"Campinas","25-29","Feminino","(B342)",14
 2021,"Campinas","25-29","Feminino","(E10-E14)",2
-2021,"Campinas","25-29","Feminino","(Outros)",37
-2021,"Campinas","25-29","Masculino","(Outros)",84
+2021,"Campinas","25-29","Feminino","(Outros)",23
+2021,"Campinas","25-29","Masculino","(B342)",19
+2021,"Campinas","25-29","Masculino","(Outros)",65
+2021,"Campinas","30-34","Feminino","(B342)",15
 2021,"Campinas","30-34","Feminino","(E10-E14)",1
-2021,"Campinas","30-34","Feminino","(Outros)",46
+2021,"Campinas","30-34","Feminino","(Outros)",31
+2021,"Campinas","30-34","Masculino","(B342)",30
 2021,"Campinas","30-34","Masculino","(E10-E14)",1
 2021,"Campinas","30-34","Masculino","(G10-G99)",1
 2021,"Campinas","30-34","Masculino","(I20, I23-I25)",1
 2021,"Campinas","30-34","Masculino","(J40-J44)",1
-2021,"Campinas","30-34","Masculino","(Outros)",104
+2021,"Campinas","30-34","Masculino","(Outros)",74
+2021,"Campinas","35-39","Feminino","(B342)",34
 2021,"Campinas","35-39","Feminino","(D65-D77)",2
 2021,"Campinas","35-39","Feminino","(E10-E14)",1
 2021,"Campinas","35-39","Feminino","(G10-G99)",1
@@ -7373,29 +7479,34 @@
 2021,"Campinas","35-39","Feminino","(I80-I82)",1
 2021,"Campinas","35-39","Feminino","(J45-J46)",1
 2021,"Campinas","35-39","Feminino","(N17-N19)",1
-2021,"Campinas","35-39","Feminino","(Outros)",84
+2021,"Campinas","35-39","Feminino","(Outros)",50
+2021,"Campinas","35-39","Masculino","(B342)",64
 2021,"Campinas","35-39","Masculino","(E10-E14)",1
 2021,"Campinas","35-39","Masculino","(G10-G99)",2
 2021,"Campinas","35-39","Masculino","(I20, I23-I25)",2
 2021,"Campinas","35-39","Masculino","(I80-I82)",1
 2021,"Campinas","35-39","Masculino","(J40-J44)",1
-2021,"Campinas","35-39","Masculino","(Outros)",156
+2021,"Campinas","35-39","Masculino","(Outros)",92
+2021,"Campinas","40-44","Feminino","(B342)",46
 2021,"Campinas","40-44","Feminino","(E10-E14)",2
 2021,"Campinas","40-44","Feminino","(E66)",3
 2021,"Campinas","40-44","Feminino","(I20, I23-I25)",1
 2021,"Campinas","40-44","Feminino","(J40-J44)",1
-2021,"Campinas","40-44","Feminino","(Outros)",112
+2021,"Campinas","40-44","Feminino","(Outros)",66
+2021,"Campinas","40-44","Masculino","(B342)",77
 2021,"Campinas","40-44","Masculino","(D65-D77)",1
 2021,"Campinas","40-44","Masculino","(E10-E14)",3
 2021,"Campinas","40-44","Masculino","(E66)",2
 2021,"Campinas","40-44","Masculino","(G10-G99)",1
 2021,"Campinas","40-44","Masculino","(I20, I23-I25)",2
-2021,"Campinas","40-44","Masculino","(Outros)",199
+2021,"Campinas","40-44","Masculino","(Outros)",122
+2021,"Campinas","45-49","Feminino","(B342)",60
 2021,"Campinas","45-49","Feminino","(E10-E14)",2
 2021,"Campinas","45-49","Feminino","(E66)",2
 2021,"Campinas","45-49","Feminino","(G10-G99)",1
 2021,"Campinas","45-49","Feminino","(I20, I23-I25)",1
-2021,"Campinas","45-49","Feminino","(Outros)",151
+2021,"Campinas","45-49","Feminino","(Outros)",91
+2021,"Campinas","45-49","Masculino","(B342)",95
 2021,"Campinas","45-49","Masculino","(E10-E14)",6
 2021,"Campinas","45-49","Masculino","(E66)",1
 2021,"Campinas","45-49","Masculino","(G10-G99)",1
@@ -7403,22 +7514,26 @@
 2021,"Campinas","45-49","Masculino","(J09-J11)",1
 2021,"Campinas","45-49","Masculino","(J45-J46)",1
 2021,"Campinas","45-49","Masculino","(N17-N19)",1
-2021,"Campinas","45-49","Masculino","(Outros)",257
+2021,"Campinas","45-49","Masculino","(Outros)",162
 2021,"Campinas","5-9","Feminino","(Outros)",2
+2021,"Campinas","5-9","Masculino","(B342)",1
 2021,"Campinas","5-9","Masculino","(J09-J11)",1
-2021,"Campinas","5-9","Masculino","(Outros)",5
+2021,"Campinas","5-9","Masculino","(Outros)",4
+2021,"Campinas","50-54","Feminino","(B342)",83
 2021,"Campinas","50-54","Feminino","(E10-E14)",5
 2021,"Campinas","50-54","Feminino","(E66)",1
 2021,"Campinas","50-54","Feminino","(I20, I23-I25)",3
 2021,"Campinas","50-54","Feminino","(J09-J11)",1
 2021,"Campinas","50-54","Feminino","(J40-J44)",1
-2021,"Campinas","50-54","Feminino","(Outros)",202
+2021,"Campinas","50-54","Feminino","(Outros)",119
+2021,"Campinas","50-54","Masculino","(B342)",139
 2021,"Campinas","50-54","Masculino","(E10-E14)",6
 2021,"Campinas","50-54","Masculino","(G10-G99)",1
 2021,"Campinas","50-54","Masculino","(I20, I23-I25)",1
 2021,"Campinas","50-54","Masculino","(I80-I82)",1
 2021,"Campinas","50-54","Masculino","(J40-J44)",3
-2021,"Campinas","50-54","Masculino","(Outros)",343
+2021,"Campinas","50-54","Masculino","(Outros)",204
+2021,"Campinas","55-59","Feminino","(B342)",127
 2021,"Campinas","55-59","Feminino","(D65-D77)",2
 2021,"Campinas","55-59","Feminino","(E10-E14)",5
 2021,"Campinas","55-59","Feminino","(E66)",2
@@ -7427,21 +7542,24 @@
 2021,"Campinas","55-59","Feminino","(I80-I82)",1
 2021,"Campinas","55-59","Feminino","(J40-J44)",3
 2021,"Campinas","55-59","Feminino","(N17-N19)",3
-2021,"Campinas","55-59","Feminino","(Outros)",273
+2021,"Campinas","55-59","Feminino","(Outros)",146
+2021,"Campinas","55-59","Masculino","(B342)",180
 2021,"Campinas","55-59","Masculino","(E10-E14)",8
 2021,"Campinas","55-59","Masculino","(E66)",1
 2021,"Campinas","55-59","Masculino","(G10-G99)",9
 2021,"Campinas","55-59","Masculino","(I20, I23-I25)",3
 2021,"Campinas","55-59","Masculino","(J40-J44)",6
 2021,"Campinas","55-59","Masculino","(N17-N19)",7
-2021,"Campinas","55-59","Masculino","(Outros)",440
+2021,"Campinas","55-59","Masculino","(Outros)",260
+2021,"Campinas","60-64","Feminino","(B342)",155
 2021,"Campinas","60-64","Feminino","(E10-E14)",8
 2021,"Campinas","60-64","Feminino","(E66)",3
 2021,"Campinas","60-64","Feminino","(G10-G99)",3
 2021,"Campinas","60-64","Feminino","(I20, I23-I25)",4
 2021,"Campinas","60-64","Feminino","(J40-J44)",7
 2021,"Campinas","60-64","Feminino","(N17-N19)",3
-2021,"Campinas","60-64","Feminino","(Outros)",352
+2021,"Campinas","60-64","Feminino","(Outros)",197
+2021,"Campinas","60-64","Masculino","(B342)",229
 2021,"Campinas","60-64","Masculino","(E10-E14)",9
 2021,"Campinas","60-64","Masculino","(E66)",1
 2021,"Campinas","60-64","Masculino","(G10-G99)",6
@@ -7449,7 +7567,8 @@
 2021,"Campinas","60-64","Masculino","(I80-I82)",1
 2021,"Campinas","60-64","Masculino","(J40-J44)",15
 2021,"Campinas","60-64","Masculino","(N17-N19)",3
-2021,"Campinas","60-64","Masculino","(Outros)",578
+2021,"Campinas","60-64","Masculino","(Outros)",349
+2021,"Campinas","65-69","Feminino","(B342)",157
 2021,"Campinas","65-69","Feminino","(E10-E14)",16
 2021,"Campinas","65-69","Feminino","(E66)",3
 2021,"Campinas","65-69","Feminino","(G10-G99)",5
@@ -7459,7 +7578,8 @@
 2021,"Campinas","65-69","Feminino","(J40-J44)",16
 2021,"Campinas","65-69","Feminino","(J45-J46)",1
 2021,"Campinas","65-69","Feminino","(N17-N19)",4
-2021,"Campinas","65-69","Feminino","(Outros)",388
+2021,"Campinas","65-69","Feminino","(Outros)",231
+2021,"Campinas","65-69","Masculino","(B342)",214
 2021,"Campinas","65-69","Masculino","(E10-E14)",28
 2021,"Campinas","65-69","Masculino","(E66)",4
 2021,"Campinas","65-69","Masculino","(G10-G99)",5
@@ -7468,7 +7588,8 @@
 2021,"Campinas","65-69","Masculino","(J40-J44)",18
 2021,"Campinas","65-69","Masculino","(J45-J46)",1
 2021,"Campinas","65-69","Masculino","(N17-N19)",4
-2021,"Campinas","65-69","Masculino","(Outros)",555
+2021,"Campinas","65-69","Masculino","(Outros)",341
+2021,"Campinas","70-74","Feminino","(B342)",176
 2021,"Campinas","70-74","Feminino","(D65-D77)",1
 2021,"Campinas","70-74","Feminino","(E10-E14)",15
 2021,"Campinas","70-74","Feminino","(G10-G99)",7
@@ -7477,14 +7598,16 @@
 2021,"Campinas","70-74","Feminino","(J40-J44)",18
 2021,"Campinas","70-74","Feminino","(J45-J46)",1
 2021,"Campinas","70-74","Feminino","(N17-N19)",1
-2021,"Campinas","70-74","Feminino","(Outros)",496
+2021,"Campinas","70-74","Feminino","(Outros)",320
+2021,"Campinas","70-74","Masculino","(B342)",226
 2021,"Campinas","70-74","Masculino","(D65-D77)",2
 2021,"Campinas","70-74","Masculino","(E10-E14)",31
 2021,"Campinas","70-74","Masculino","(E66)",1
 2021,"Campinas","70-74","Masculino","(G10-G99)",7
 2021,"Campinas","70-74","Masculino","(I20, I23-I25)",7
 2021,"Campinas","70-74","Masculino","(J40-J44)",13
-2021,"Campinas","70-74","Masculino","(Outros)",632
+2021,"Campinas","70-74","Masculino","(Outros)",406
+2021,"Campinas","75-79","Feminino","(B342)",141
 2021,"Campinas","75-79","Feminino","(E10-E14)",27
 2021,"Campinas","75-79","Feminino","(E66)",1
 2021,"Campinas","75-79","Feminino","(G10-G99)",6
@@ -7493,7 +7616,8 @@
 2021,"Campinas","75-79","Feminino","(J09-J11)",1
 2021,"Campinas","75-79","Feminino","(J40-J44)",9
 2021,"Campinas","75-79","Feminino","(N17-N19)",3
-2021,"Campinas","75-79","Feminino","(Outros)",469
+2021,"Campinas","75-79","Feminino","(Outros)",328
+2021,"Campinas","75-79","Masculino","(B342)",181
 2021,"Campinas","75-79","Masculino","(E10-E14)",21
 2021,"Campinas","75-79","Masculino","(E66)",2
 2021,"Campinas","75-79","Masculino","(G10-G99)",3
@@ -7501,7 +7625,8 @@
 2021,"Campinas","75-79","Masculino","(I80-I82)",1
 2021,"Campinas","75-79","Masculino","(J40-J44)",9
 2021,"Campinas","75-79","Masculino","(N17-N19)",7
-2021,"Campinas","75-79","Masculino","(Outros)",544
+2021,"Campinas","75-79","Masculino","(Outros)",363
+2021,"Campinas","80+","Feminino","(B342)",364
 2021,"Campinas","80+","Feminino","(D65-D77)",1
 2021,"Campinas","80+","Feminino","(E10-E14)",71
 2021,"Campinas","80+","Feminino","(E66)",4
@@ -7512,7 +7637,8 @@
 2021,"Campinas","80+","Feminino","(J40-J44)",42
 2021,"Campinas","80+","Feminino","(J45-J46)",4
 2021,"Campinas","80+","Feminino","(N17-N19)",21
-2021,"Campinas","80+","Feminino","(Outros)",1731
+2021,"Campinas","80+","Feminino","(Outros)",1367
+2021,"Campinas","80+","Masculino","(B342)",323
 2021,"Campinas","80+","Masculino","(E10-E14)",31
 2021,"Campinas","80+","Masculino","(G10-G99)",36
 2021,"Campinas","80+","Masculino","(I20, I23-I25)",29
@@ -7521,49 +7647,61 @@
 2021,"Campinas","80+","Masculino","(J40-J44)",54
 2021,"Campinas","80+","Masculino","(J45-J46)",1
 2021,"Campinas","80+","Masculino","(N17-N19)",12
-2021,"Campinas","80+","Masculino","(Outros)",1182
+2021,"Campinas","80+","Masculino","(Outros)",859
+2021,"Guarulhos","0-4","Feminino","(B342)",1
 2021,"Guarulhos","0-4","Feminino","(E10-E14)",1
 2021,"Guarulhos","0-4","Feminino","(G10-G99)",2
 2021,"Guarulhos","0-4","Feminino","(J09-J11)",1
-2021,"Guarulhos","0-4","Feminino","(Outros)",103
+2021,"Guarulhos","0-4","Feminino","(Outros)",102
+2021,"Guarulhos","0-4","Masculino","(B342)",1
 2021,"Guarulhos","0-4","Masculino","(G10-G99)",4
 2021,"Guarulhos","0-4","Masculino","(N17-N19)",1
-2021,"Guarulhos","0-4","Masculino","(Outros)",130
+2021,"Guarulhos","0-4","Masculino","(Outros)",129
 2021,"Guarulhos","0-4",NA,"(Outros)",3
+2021,"Guarulhos","10-14","Feminino","(B342)",1
 2021,"Guarulhos","10-14","Feminino","(G10-G99)",1
 2021,"Guarulhos","10-14","Feminino","(J45-J46)",1
-2021,"Guarulhos","10-14","Feminino","(Outros)",5
-2021,"Guarulhos","10-14","Masculino","(Outros)",11
+2021,"Guarulhos","10-14","Feminino","(Outros)",4
+2021,"Guarulhos","10-14","Masculino","(B342)",2
+2021,"Guarulhos","10-14","Masculino","(Outros)",9
+2021,"Guarulhos","15-19","Feminino","(B342)",2
 2021,"Guarulhos","15-19","Feminino","(E10-E14)",1
-2021,"Guarulhos","15-19","Feminino","(Outros)",28
+2021,"Guarulhos","15-19","Feminino","(Outros)",26
 2021,"Guarulhos","15-19","Masculino","(D65-D77)",1
 2021,"Guarulhos","15-19","Masculino","(G10-G99)",1
 2021,"Guarulhos","15-19","Masculino","(Outros)",54
-2021,"Guarulhos","20-24","Feminino","(Outros)",39
+2021,"Guarulhos","20-24","Feminino","(B342)",5
+2021,"Guarulhos","20-24","Feminino","(Outros)",34
+2021,"Guarulhos","20-24","Masculino","(B342)",6
 2021,"Guarulhos","20-24","Masculino","(D65-D77)",1
 2021,"Guarulhos","20-24","Masculino","(E10-E14)",1
 2021,"Guarulhos","20-24","Masculino","(G10-G99)",1
 2021,"Guarulhos","20-24","Masculino","(I20, I23-I25)",1
 2021,"Guarulhos","20-24","Masculino","(N17-N19)",1
-2021,"Guarulhos","20-24","Masculino","(Outros)",100
+2021,"Guarulhos","20-24","Masculino","(Outros)",94
+2021,"Guarulhos","25-29","Feminino","(B342)",14
 2021,"Guarulhos","25-29","Feminino","(E10-E14)",2
 2021,"Guarulhos","25-29","Feminino","(E66)",1
 2021,"Guarulhos","25-29","Feminino","(G10-G99)",2
 2021,"Guarulhos","25-29","Feminino","(N17-N19)",1
-2021,"Guarulhos","25-29","Feminino","(Outros)",55
+2021,"Guarulhos","25-29","Feminino","(Outros)",41
+2021,"Guarulhos","25-29","Masculino","(B342)",22
 2021,"Guarulhos","25-29","Masculino","(D80-D89)",1
 2021,"Guarulhos","25-29","Masculino","(G10-G99)",2
 2021,"Guarulhos","25-29","Masculino","(J45-J46)",1
 2021,"Guarulhos","25-29","Masculino","(N17-N19)",1
-2021,"Guarulhos","25-29","Masculino","(Outros)",122
+2021,"Guarulhos","25-29","Masculino","(Outros)",100
+2021,"Guarulhos","30-34","Feminino","(B342)",26
 2021,"Guarulhos","30-34","Feminino","(E10-E14)",2
 2021,"Guarulhos","30-34","Feminino","(I80-I82)",1
 2021,"Guarulhos","30-34","Feminino","(N17-N19)",1
-2021,"Guarulhos","30-34","Feminino","(Outros)",75
+2021,"Guarulhos","30-34","Feminino","(Outros)",49
+2021,"Guarulhos","30-34","Masculino","(B342)",35
 2021,"Guarulhos","30-34","Masculino","(E10-E14)",3
 2021,"Guarulhos","30-34","Masculino","(I20, I23-I25)",1
 2021,"Guarulhos","30-34","Masculino","(N17-N19)",2
-2021,"Guarulhos","30-34","Masculino","(Outros)",160
+2021,"Guarulhos","30-34","Masculino","(Outros)",125
+2021,"Guarulhos","35-39","Feminino","(B342)",49
 2021,"Guarulhos","35-39","Feminino","(D65-D77)",1
 2021,"Guarulhos","35-39","Feminino","(E10-E14)",1
 2021,"Guarulhos","35-39","Feminino","(E66)",5
@@ -7571,42 +7709,49 @@
 2021,"Guarulhos","35-39","Feminino","(I20, I23-I25)",1
 2021,"Guarulhos","35-39","Feminino","(I80-I82)",1
 2021,"Guarulhos","35-39","Feminino","(J40-J44)",1
-2021,"Guarulhos","35-39","Feminino","(Outros)",118
+2021,"Guarulhos","35-39","Feminino","(Outros)",69
+2021,"Guarulhos","35-39","Masculino","(B342)",78
 2021,"Guarulhos","35-39","Masculino","(E10-E14)",2
 2021,"Guarulhos","35-39","Masculino","(E66)",2
 2021,"Guarulhos","35-39","Masculino","(J40-J44)",1
 2021,"Guarulhos","35-39","Masculino","(N17-N19)",1
-2021,"Guarulhos","35-39","Masculino","(Outros)",205
+2021,"Guarulhos","35-39","Masculino","(Outros)",127
+2021,"Guarulhos","40-44","Feminino","(B342)",57
 2021,"Guarulhos","40-44","Feminino","(E10-E14)",4
 2021,"Guarulhos","40-44","Feminino","(E66)",2
 2021,"Guarulhos","40-44","Feminino","(I20, I23-I25)",1
 2021,"Guarulhos","40-44","Feminino","(I80-I82)",1
 2021,"Guarulhos","40-44","Feminino","(N17-N19)",4
-2021,"Guarulhos","40-44","Feminino","(Outros)",149
+2021,"Guarulhos","40-44","Feminino","(Outros)",92
+2021,"Guarulhos","40-44","Masculino","(B342)",120
 2021,"Guarulhos","40-44","Masculino","(E10-E14)",6
 2021,"Guarulhos","40-44","Masculino","(G10-G99)",2
 2021,"Guarulhos","40-44","Masculino","(I20, I23-I25)",2
 2021,"Guarulhos","40-44","Masculino","(I80-I82)",1
 2021,"Guarulhos","40-44","Masculino","(J45-J46)",1
 2021,"Guarulhos","40-44","Masculino","(N17-N19)",1
-2021,"Guarulhos","40-44","Masculino","(Outros)",318
+2021,"Guarulhos","40-44","Masculino","(Outros)",198
+2021,"Guarulhos","45-49","Feminino","(B342)",96
 2021,"Guarulhos","45-49","Feminino","(E10-E14)",9
 2021,"Guarulhos","45-49","Feminino","(E66)",1
 2021,"Guarulhos","45-49","Feminino","(J45-J46)",2
 2021,"Guarulhos","45-49","Feminino","(N17-N19)",2
-2021,"Guarulhos","45-49","Feminino","(Outros)",217
+2021,"Guarulhos","45-49","Feminino","(Outros)",121
+2021,"Guarulhos","45-49","Masculino","(B342)",151
 2021,"Guarulhos","45-49","Masculino","(D65-D77)",1
 2021,"Guarulhos","45-49","Masculino","(E10-E14)",7
 2021,"Guarulhos","45-49","Masculino","(E66)",2
 2021,"Guarulhos","45-49","Masculino","(G10-G99)",4
 2021,"Guarulhos","45-49","Masculino","(I20, I23-I25)",4
 2021,"Guarulhos","45-49","Masculino","(N17-N19)",7
-2021,"Guarulhos","45-49","Masculino","(Outros)",404
+2021,"Guarulhos","45-49","Masculino","(Outros)",253
+2021,"Guarulhos","5-9","Feminino","(B342)",1
 2021,"Guarulhos","5-9","Feminino","(E10-E14)",1
 2021,"Guarulhos","5-9","Feminino","(G10-G99)",1
-2021,"Guarulhos","5-9","Feminino","(Outros)",6
+2021,"Guarulhos","5-9","Feminino","(Outros)",5
 2021,"Guarulhos","5-9","Masculino","(G10-G99)",1
 2021,"Guarulhos","5-9","Masculino","(Outros)",5
+2021,"Guarulhos","50-54","Feminino","(B342)",115
 2021,"Guarulhos","50-54","Feminino","(E10-E14)",6
 2021,"Guarulhos","50-54","Feminino","(E66)",1
 2021,"Guarulhos","50-54","Feminino","(G10-G99)",1
@@ -7615,7 +7760,8 @@
 2021,"Guarulhos","50-54","Feminino","(J09-J11)",1
 2021,"Guarulhos","50-54","Feminino","(J40-J44)",1
 2021,"Guarulhos","50-54","Feminino","(N17-N19)",3
-2021,"Guarulhos","50-54","Feminino","(Outros)",269
+2021,"Guarulhos","50-54","Feminino","(Outros)",154
+2021,"Guarulhos","50-54","Masculino","(B342)",160
 2021,"Guarulhos","50-54","Masculino","(E10-E14)",14
 2021,"Guarulhos","50-54","Masculino","(E66)",2
 2021,"Guarulhos","50-54","Masculino","(G10-G99)",2
@@ -7624,8 +7770,9 @@
 2021,"Guarulhos","50-54","Masculino","(J40-J44)",7
 2021,"Guarulhos","50-54","Masculino","(J45-J46)",1
 2021,"Guarulhos","50-54","Masculino","(N17-N19)",3
-2021,"Guarulhos","50-54","Masculino","(Outros)",463
-2021,"Guarulhos","50-54",NA,"(Outros)",2
+2021,"Guarulhos","50-54","Masculino","(Outros)",303
+2021,"Guarulhos","50-54",NA,"(B342)",2
+2021,"Guarulhos","55-59","Feminino","(B342)",163
 2021,"Guarulhos","55-59","Feminino","(E10-E14)",6
 2021,"Guarulhos","55-59","Feminino","(E66)",1
 2021,"Guarulhos","55-59","Feminino","(G10-G99)",2
@@ -7633,7 +7780,8 @@
 2021,"Guarulhos","55-59","Feminino","(J09-J11)",1
 2021,"Guarulhos","55-59","Feminino","(J40-J44)",4
 2021,"Guarulhos","55-59","Feminino","(N17-N19)",3
-2021,"Guarulhos","55-59","Feminino","(Outros)",396
+2021,"Guarulhos","55-59","Feminino","(Outros)",233
+2021,"Guarulhos","55-59","Masculino","(B342)",234
 2021,"Guarulhos","55-59","Masculino","(D65-D77)",1
 2021,"Guarulhos","55-59","Masculino","(E10-E14)",22
 2021,"Guarulhos","55-59","Masculino","(E66)",2
@@ -7642,7 +7790,8 @@
 2021,"Guarulhos","55-59","Masculino","(I80-I82)",2
 2021,"Guarulhos","55-59","Masculino","(J45-J46)",2
 2021,"Guarulhos","55-59","Masculino","(N17-N19)",4
-2021,"Guarulhos","55-59","Masculino","(Outros)",647
+2021,"Guarulhos","55-59","Masculino","(Outros)",413
+2021,"Guarulhos","60-64","Feminino","(B342)",168
 2021,"Guarulhos","60-64","Feminino","(D65-D77)",2
 2021,"Guarulhos","60-64","Feminino","(E10-E14)",20
 2021,"Guarulhos","60-64","Feminino","(E66)",1
@@ -7653,14 +7802,16 @@
 2021,"Guarulhos","60-64","Feminino","(J40-J44)",6
 2021,"Guarulhos","60-64","Feminino","(J45-J46)",1
 2021,"Guarulhos","60-64","Feminino","(N17-N19)",4
-2021,"Guarulhos","60-64","Feminino","(Outros)",449
+2021,"Guarulhos","60-64","Feminino","(Outros)",281
+2021,"Guarulhos","60-64","Masculino","(B342)",210
 2021,"Guarulhos","60-64","Masculino","(E10-E14)",25
 2021,"Guarulhos","60-64","Masculino","(G10-G99)",3
 2021,"Guarulhos","60-64","Masculino","(I20, I23-I25)",10
 2021,"Guarulhos","60-64","Masculino","(I80-I82)",1
 2021,"Guarulhos","60-64","Masculino","(J40-J44)",13
 2021,"Guarulhos","60-64","Masculino","(N17-N19)",6
-2021,"Guarulhos","60-64","Masculino","(Outros)",675
+2021,"Guarulhos","60-64","Masculino","(Outros)",465
+2021,"Guarulhos","65-69","Feminino","(B342)",200
 2021,"Guarulhos","65-69","Feminino","(E10-E14)",24
 2021,"Guarulhos","65-69","Feminino","(E66)",1
 2021,"Guarulhos","65-69","Feminino","(G10-G99)",5
@@ -7668,7 +7819,8 @@
 2021,"Guarulhos","65-69","Feminino","(I80-I82)",1
 2021,"Guarulhos","65-69","Feminino","(J40-J44)",18
 2021,"Guarulhos","65-69","Feminino","(N17-N19)",4
-2021,"Guarulhos","65-69","Feminino","(Outros)",530
+2021,"Guarulhos","65-69","Feminino","(Outros)",330
+2021,"Guarulhos","65-69","Masculino","(B342)",269
 2021,"Guarulhos","65-69","Masculino","(E10-E14)",23
 2021,"Guarulhos","65-69","Masculino","(E66)",1
 2021,"Guarulhos","65-69","Masculino","(G10-G99)",4
@@ -7678,7 +7830,8 @@
 2021,"Guarulhos","65-69","Masculino","(J40-J44)",15
 2021,"Guarulhos","65-69","Masculino","(J45-J46)",1
 2021,"Guarulhos","65-69","Masculino","(N17-N19)",13
-2021,"Guarulhos","65-69","Masculino","(Outros)",749
+2021,"Guarulhos","65-69","Masculino","(Outros)",480
+2021,"Guarulhos","70-74","Feminino","(B342)",155
 2021,"Guarulhos","70-74","Feminino","(E10-E14)",33
 2021,"Guarulhos","70-74","Feminino","(G10-G99)",2
 2021,"Guarulhos","70-74","Feminino","(I20, I23-I25)",9
@@ -7687,7 +7840,8 @@
 2021,"Guarulhos","70-74","Feminino","(J40-J44)",13
 2021,"Guarulhos","70-74","Feminino","(J45-J46)",3
 2021,"Guarulhos","70-74","Feminino","(N17-N19)",6
-2021,"Guarulhos","70-74","Feminino","(Outros)",522
+2021,"Guarulhos","70-74","Feminino","(Outros)",367
+2021,"Guarulhos","70-74","Masculino","(B342)",192
 2021,"Guarulhos","70-74","Masculino","(D65-D77)",1
 2021,"Guarulhos","70-74","Masculino","(E10-E14)",31
 2021,"Guarulhos","70-74","Masculino","(G10-G99)",3
@@ -7697,7 +7851,8 @@
 2021,"Guarulhos","70-74","Masculino","(J40-J44)",13
 2021,"Guarulhos","70-74","Masculino","(J45-J46)",1
 2021,"Guarulhos","70-74","Masculino","(N17-N19)",8
-2021,"Guarulhos","70-74","Masculino","(Outros)",653
+2021,"Guarulhos","70-74","Masculino","(Outros)",461
+2021,"Guarulhos","75-79","Feminino","(B342)",132
 2021,"Guarulhos","75-79","Feminino","(E10-E14)",28
 2021,"Guarulhos","75-79","Feminino","(E66)",2
 2021,"Guarulhos","75-79","Feminino","(G10-G99)",2
@@ -7705,15 +7860,17 @@
 2021,"Guarulhos","75-79","Feminino","(I80-I82)",2
 2021,"Guarulhos","75-79","Feminino","(J40-J44)",14
 2021,"Guarulhos","75-79","Feminino","(N17-N19)",3
-2021,"Guarulhos","75-79","Feminino","(Outros)",533
+2021,"Guarulhos","75-79","Feminino","(Outros)",401
+2021,"Guarulhos","75-79","Masculino","(B342)",125
 2021,"Guarulhos","75-79","Masculino","(E10-E14)",21
 2021,"Guarulhos","75-79","Masculino","(G10-G99)",2
 2021,"Guarulhos","75-79","Masculino","(I20, I23-I25)",9
 2021,"Guarulhos","75-79","Masculino","(J09-J11)",1
 2021,"Guarulhos","75-79","Masculino","(J40-J44)",15
 2021,"Guarulhos","75-79","Masculino","(N17-N19)",7
-2021,"Guarulhos","75-79","Masculino","(Outros)",525
+2021,"Guarulhos","75-79","Masculino","(Outros)",400
 2021,"Guarulhos","75-79",NA,"(Outros)",1
+2021,"Guarulhos","80+","Feminino","(B342)",213
 2021,"Guarulhos","80+","Feminino","(D65-D77)",3
 2021,"Guarulhos","80+","Feminino","(D80-D89)",1
 2021,"Guarulhos","80+","Feminino","(E10-E14)",68
@@ -7724,7 +7881,8 @@
 2021,"Guarulhos","80+","Feminino","(J40-J44)",38
 2021,"Guarulhos","80+","Feminino","(J45-J46)",2
 2021,"Guarulhos","80+","Feminino","(N17-N19)",16
-2021,"Guarulhos","80+","Feminino","(Outros)",1307
+2021,"Guarulhos","80+","Feminino","(Outros)",1094
+2021,"Guarulhos","80+","Masculino","(B342)",203
 2021,"Guarulhos","80+","Masculino","(E10-E14)",34
 2021,"Guarulhos","80+","Masculino","(E66)",2
 2021,"Guarulhos","80+","Masculino","(G10-G99)",8
@@ -7734,18 +7892,20 @@
 2021,"Guarulhos","80+","Masculino","(J40-J44)",32
 2021,"Guarulhos","80+","Masculino","(J45-J46)",1
 2021,"Guarulhos","80+","Masculino","(N17-N19)",17
-2021,"Guarulhos","80+","Masculino","(Outros)",902
+2021,"Guarulhos","80+","Masculino","(Outros)",699
 2021,"Guarulhos","80+",NA,"(Outros)",1
 2021,"Guarulhos",NA,"Feminino","(Outros)",1
 2021,"Guarulhos",NA,"Masculino","(Outros)",2
 2021,"Guarulhos",NA,NA,"(Outros)",1
+2021,"São Paulo","0-4","Feminino","(B342)",4
 2021,"São Paulo","0-4","Feminino","(D65-D77)",3
 2021,"São Paulo","0-4","Feminino","(G10-G99)",9
 2021,"São Paulo","0-4","Feminino","(J09-J11)",1
 2021,"São Paulo","0-4","Feminino","(J40-J44)",1
 2021,"São Paulo","0-4","Feminino","(J45-J46)",1
 2021,"São Paulo","0-4","Feminino","(N17-N19)",1
-2021,"São Paulo","0-4","Feminino","(Outros)",700
+2021,"São Paulo","0-4","Feminino","(Outros)",696
+2021,"São Paulo","0-4","Masculino","(B342)",7
 2021,"São Paulo","0-4","Masculino","(D65-D77)",2
 2021,"São Paulo","0-4","Masculino","(D80-D89)",2
 2021,"São Paulo","0-4","Masculino","(E10-E14)",1
@@ -7753,35 +7913,41 @@
 2021,"São Paulo","0-4","Masculino","(J09-J11)",1
 2021,"São Paulo","0-4","Masculino","(J45-J46)",1
 2021,"São Paulo","0-4","Masculino","(N17-N19)",4
-2021,"São Paulo","0-4","Masculino","(Outros)",881
+2021,"São Paulo","0-4","Masculino","(Outros)",874
 2021,"São Paulo","0-4",NA,"(Outros)",4
+2021,"São Paulo","10-14","Feminino","(B342)",4
 2021,"São Paulo","10-14","Feminino","(D65-D77)",1
 2021,"São Paulo","10-14","Feminino","(G10-G99)",4
 2021,"São Paulo","10-14","Feminino","(J09-J11)",1
-2021,"São Paulo","10-14","Feminino","(Outros)",52
+2021,"São Paulo","10-14","Feminino","(Outros)",48
+2021,"São Paulo","10-14","Masculino","(B342)",1
 2021,"São Paulo","10-14","Masculino","(D65-D77)",3
 2021,"São Paulo","10-14","Masculino","(D80-D89)",1
 2021,"São Paulo","10-14","Masculino","(G10-G99)",4
 2021,"São Paulo","10-14","Masculino","(I80-I82)",1
-2021,"São Paulo","10-14","Masculino","(Outros)",71
+2021,"São Paulo","10-14","Masculino","(Outros)",70
+2021,"São Paulo","15-19","Feminino","(B342)",12
 2021,"São Paulo","15-19","Feminino","(D65-D77)",2
 2021,"São Paulo","15-19","Feminino","(E10-E14)",2
 2021,"São Paulo","15-19","Feminino","(G10-G99)",4
 2021,"São Paulo","15-19","Feminino","(J09-J11)",1
 2021,"São Paulo","15-19","Feminino","(N17-N19)",1
-2021,"São Paulo","15-19","Feminino","(Outros)",147
+2021,"São Paulo","15-19","Feminino","(Outros)",135
+2021,"São Paulo","15-19","Masculino","(B342)",13
 2021,"São Paulo","15-19","Masculino","(E10-E14)",2
 2021,"São Paulo","15-19","Masculino","(G10-G99)",7
 2021,"São Paulo","15-19","Masculino","(I20, I23-I25)",1
 2021,"São Paulo","15-19","Masculino","(J45-J46)",3
-2021,"São Paulo","15-19","Masculino","(Outros)",353
+2021,"São Paulo","15-19","Masculino","(Outros)",340
+2021,"São Paulo","20-24","Feminino","(B342)",32
 2021,"São Paulo","20-24","Feminino","(D80-D89)",2
 2021,"São Paulo","20-24","Feminino","(E10-E14)",4
 2021,"São Paulo","20-24","Feminino","(E66)",4
 2021,"São Paulo","20-24","Feminino","(G10-G99)",9
 2021,"São Paulo","20-24","Feminino","(I20, I23-I25)",3
 2021,"São Paulo","20-24","Feminino","(I80-I82)",2
-2021,"São Paulo","20-24","Feminino","(Outros)",279
+2021,"São Paulo","20-24","Feminino","(Outros)",247
+2021,"São Paulo","20-24","Masculino","(B342)",49
 2021,"São Paulo","20-24","Masculino","(D65-D77)",2
 2021,"São Paulo","20-24","Masculino","(E10-E14)",4
 2021,"São Paulo","20-24","Masculino","(E66)",1
@@ -7791,14 +7957,16 @@
 2021,"São Paulo","20-24","Masculino","(J09-J11)",1
 2021,"São Paulo","20-24","Masculino","(J45-J46)",1
 2021,"São Paulo","20-24","Masculino","(N17-N19)",1
-2021,"São Paulo","20-24","Masculino","(Outros)",756
+2021,"São Paulo","20-24","Masculino","(Outros)",707
+2021,"São Paulo","25-29","Feminino","(B342)",87
 2021,"São Paulo","25-29","Feminino","(D80-D89)",1
 2021,"São Paulo","25-29","Feminino","(E10-E14)",6
 2021,"São Paulo","25-29","Feminino","(E66)",2
 2021,"São Paulo","25-29","Feminino","(G10-G99)",6
 2021,"São Paulo","25-29","Feminino","(I20, I23-I25)",5
 2021,"São Paulo","25-29","Feminino","(N17-N19)",1
-2021,"São Paulo","25-29","Feminino","(Outros)",374
+2021,"São Paulo","25-29","Feminino","(Outros)",287
+2021,"São Paulo","25-29","Masculino","(B342)",96
 2021,"São Paulo","25-29","Masculino","(D65-D77)",1
 2021,"São Paulo","25-29","Masculino","(E10-E14)",8
 2021,"São Paulo","25-29","Masculino","(G10-G99)",11
@@ -7806,7 +7974,8 @@
 2021,"São Paulo","25-29","Masculino","(I80-I82)",1
 2021,"São Paulo","25-29","Masculino","(J45-J46)",4
 2021,"São Paulo","25-29","Masculino","(N17-N19)",3
-2021,"São Paulo","25-29","Masculino","(Outros)",816
+2021,"São Paulo","25-29","Masculino","(Outros)",720
+2021,"São Paulo","30-34","Feminino","(B342)",136
 2021,"São Paulo","30-34","Feminino","(D65-D77)",5
 2021,"São Paulo","30-34","Feminino","(E10-E14)",15
 2021,"São Paulo","30-34","Feminino","(E66)",7
@@ -7816,7 +7985,8 @@
 2021,"São Paulo","30-34","Feminino","(J09-J11)",1
 2021,"São Paulo","30-34","Feminino","(J45-J46)",2
 2021,"São Paulo","30-34","Feminino","(N17-N19)",2
-2021,"São Paulo","30-34","Feminino","(Outros)",503
+2021,"São Paulo","30-34","Feminino","(Outros)",367
+2021,"São Paulo","30-34","Masculino","(B342)",253
 2021,"São Paulo","30-34","Masculino","(D65-D77)",1
 2021,"São Paulo","30-34","Masculino","(E10-E14)",9
 2021,"São Paulo","30-34","Masculino","(E66)",4
@@ -7826,7 +7996,8 @@
 2021,"São Paulo","30-34","Masculino","(J40-J44)",4
 2021,"São Paulo","30-34","Masculino","(J45-J46)",3
 2021,"São Paulo","30-34","Masculino","(N17-N19)",9
-2021,"São Paulo","30-34","Masculino","(Outros)",1066
+2021,"São Paulo","30-34","Masculino","(Outros)",813
+2021,"São Paulo","35-39","Feminino","(B342)",268
 2021,"São Paulo","35-39","Feminino","(E10-E14)",15
 2021,"São Paulo","35-39","Feminino","(E66)",6
 2021,"São Paulo","35-39","Feminino","(G10-G99)",8
@@ -7835,7 +8006,8 @@
 2021,"São Paulo","35-39","Feminino","(J40-J44)",3
 2021,"São Paulo","35-39","Feminino","(J45-J46)",5
 2021,"São Paulo","35-39","Feminino","(N17-N19)",4
-2021,"São Paulo","35-39","Feminino","(Outros)",744
+2021,"São Paulo","35-39","Feminino","(Outros)",476
+2021,"São Paulo","35-39","Masculino","(B342)",472
 2021,"São Paulo","35-39","Masculino","(D65-D77)",2
 2021,"São Paulo","35-39","Masculino","(E10-E14)",9
 2021,"São Paulo","35-39","Masculino","(E66)",7
@@ -7845,7 +8017,8 @@
 2021,"São Paulo","35-39","Masculino","(J40-J44)",2
 2021,"São Paulo","35-39","Masculino","(J45-J46)",3
 2021,"São Paulo","35-39","Masculino","(N17-N19)",6
-2021,"São Paulo","35-39","Masculino","(Outros)",1562
+2021,"São Paulo","35-39","Masculino","(Outros)",1090
+2021,"São Paulo","40-44","Feminino","(B342)",367
 2021,"São Paulo","40-44","Feminino","(D65-D77)",2
 2021,"São Paulo","40-44","Feminino","(E10-E14)",19
 2021,"São Paulo","40-44","Feminino","(E66)",16
@@ -7855,7 +8028,8 @@
 2021,"São Paulo","40-44","Feminino","(J40-J44)",1
 2021,"São Paulo","40-44","Feminino","(J45-J46)",4
 2021,"São Paulo","40-44","Feminino","(N17-N19)",8
-2021,"São Paulo","40-44","Feminino","(Outros)",1106
+2021,"São Paulo","40-44","Feminino","(Outros)",739
+2021,"São Paulo","40-44","Masculino","(B342)",630
 2021,"São Paulo","40-44","Masculino","(D65-D77)",3
 2021,"São Paulo","40-44","Masculino","(E10-E14)",22
 2021,"São Paulo","40-44","Masculino","(E66)",10
@@ -7865,7 +8039,8 @@
 2021,"São Paulo","40-44","Masculino","(J40-J44)",3
 2021,"São Paulo","40-44","Masculino","(J45-J46)",3
 2021,"São Paulo","40-44","Masculino","(N17-N19)",9
-2021,"São Paulo","40-44","Masculino","(Outros)",1959
+2021,"São Paulo","40-44","Masculino","(Outros)",1329
+2021,"São Paulo","45-49","Feminino","(B342)",485
 2021,"São Paulo","45-49","Feminino","(D65-D77)",3
 2021,"São Paulo","45-49","Feminino","(D80-D89)",1
 2021,"São Paulo","45-49","Feminino","(E10-E14)",28
@@ -7877,7 +8052,8 @@
 2021,"São Paulo","45-49","Feminino","(J40-J44)",8
 2021,"São Paulo","45-49","Feminino","(J45-J46)",4
 2021,"São Paulo","45-49","Feminino","(N17-N19)",12
-2021,"São Paulo","45-49","Feminino","(Outros)",1430
+2021,"São Paulo","45-49","Feminino","(Outros)",945
+2021,"São Paulo","45-49","Masculino","(B342)",913
 2021,"São Paulo","45-49","Masculino","(D65-D77)",2
 2021,"São Paulo","45-49","Masculino","(E10-E14)",50
 2021,"São Paulo","45-49","Masculino","(E66)",16
@@ -7888,15 +8064,19 @@
 2021,"São Paulo","45-49","Masculino","(J40-J44)",6
 2021,"São Paulo","45-49","Masculino","(J45-J46)",5
 2021,"São Paulo","45-49","Masculino","(N17-N19)",13
-2021,"São Paulo","45-49","Masculino","(Outros)",2598
-2021,"São Paulo","45-49",NA,"(Outros)",2
+2021,"São Paulo","45-49","Masculino","(Outros)",1685
+2021,"São Paulo","45-49",NA,"(B342)",1
+2021,"São Paulo","45-49",NA,"(Outros)",1
+2021,"São Paulo","5-9","Feminino","(B342)",2
 2021,"São Paulo","5-9","Feminino","(G10-G99)",4
-2021,"São Paulo","5-9","Feminino","(Outros)",39
+2021,"São Paulo","5-9","Feminino","(Outros)",37
+2021,"São Paulo","5-9","Masculino","(B342)",1
 2021,"São Paulo","5-9","Masculino","(G10-G99)",4
 2021,"São Paulo","5-9","Masculino","(I20, I23-I25)",1
 2021,"São Paulo","5-9","Masculino","(J40-J44)",1
 2021,"São Paulo","5-9","Masculino","(J45-J46)",1
-2021,"São Paulo","5-9","Masculino","(Outros)",50
+2021,"São Paulo","5-9","Masculino","(Outros)",49
+2021,"São Paulo","50-54","Feminino","(B342)",694
 2021,"São Paulo","50-54","Feminino","(D65-D77)",6
 2021,"São Paulo","50-54","Feminino","(D80-D89)",1
 2021,"São Paulo","50-54","Feminino","(E10-E14)",46
@@ -7908,7 +8088,8 @@
 2021,"São Paulo","50-54","Feminino","(J40-J44)",17
 2021,"São Paulo","50-54","Feminino","(J45-J46)",4
 2021,"São Paulo","50-54","Feminino","(N17-N19)",11
-2021,"São Paulo","50-54","Feminino","(Outros)",1937
+2021,"São Paulo","50-54","Feminino","(Outros)",1243
+2021,"São Paulo","50-54","Masculino","(B342)",1061
 2021,"São Paulo","50-54","Masculino","(D65-D77)",6
 2021,"São Paulo","50-54","Masculino","(E10-E14)",93
 2021,"São Paulo","50-54","Masculino","(E66)",18
@@ -7919,7 +8100,8 @@
 2021,"São Paulo","50-54","Masculino","(J40-J44)",24
 2021,"São Paulo","50-54","Masculino","(J45-J46)",1
 2021,"São Paulo","50-54","Masculino","(N17-N19)",26
-2021,"São Paulo","50-54","Masculino","(Outros)",3284
+2021,"São Paulo","50-54","Masculino","(Outros)",2223
+2021,"São Paulo","55-59","Feminino","(B342)",959
 2021,"São Paulo","55-59","Feminino","(D65-D77)",6
 2021,"São Paulo","55-59","Feminino","(E10-E14)",76
 2021,"São Paulo","55-59","Feminino","(E66)",15
@@ -7930,7 +8112,8 @@
 2021,"São Paulo","55-59","Feminino","(J40-J44)",49
 2021,"São Paulo","55-59","Feminino","(J45-J46)",2
 2021,"São Paulo","55-59","Feminino","(N17-N19)",21
-2021,"São Paulo","55-59","Feminino","(Outros)",2689
+2021,"São Paulo","55-59","Feminino","(Outros)",1730
+2021,"São Paulo","55-59","Masculino","(B342)",1493
 2021,"São Paulo","55-59","Masculino","(D65-D77)",1
 2021,"São Paulo","55-59","Masculino","(E10-E14)",144
 2021,"São Paulo","55-59","Masculino","(E66)",10
@@ -7941,8 +8124,9 @@
 2021,"São Paulo","55-59","Masculino","(J40-J44)",38
 2021,"São Paulo","55-59","Masculino","(J45-J46)",1
 2021,"São Paulo","55-59","Masculino","(N17-N19)",37
-2021,"São Paulo","55-59","Masculino","(Outros)",4430
-2021,"São Paulo","55-59",NA,"(Outros)",2
+2021,"São Paulo","55-59","Masculino","(Outros)",2937
+2021,"São Paulo","55-59",NA,"(B342)",2
+2021,"São Paulo","60-64","Feminino","(B342)",1177
 2021,"São Paulo","60-64","Feminino","(D65-D77)",8
 2021,"São Paulo","60-64","Feminino","(D80-D89)",1
 2021,"São Paulo","60-64","Feminino","(E10-E14)",111
@@ -7954,7 +8138,8 @@
 2021,"São Paulo","60-64","Feminino","(J40-J44)",67
 2021,"São Paulo","60-64","Feminino","(J45-J46)",5
 2021,"São Paulo","60-64","Feminino","(N17-N19)",26
-2021,"São Paulo","60-64","Feminino","(Outros)",3549
+2021,"São Paulo","60-64","Feminino","(Outros)",2372
+2021,"São Paulo","60-64","Masculino","(B342)",1611
 2021,"São Paulo","60-64","Masculino","(D65-D77)",8
 2021,"São Paulo","60-64","Masculino","(E10-E14)",160
 2021,"São Paulo","60-64","Masculino","(E66)",7
@@ -7965,8 +8150,10 @@
 2021,"São Paulo","60-64","Masculino","(J40-J44)",86
 2021,"São Paulo","60-64","Masculino","(J45-J46)",3
 2021,"São Paulo","60-64","Masculino","(N17-N19)",31
-2021,"São Paulo","60-64","Masculino","(Outros)",5274
-2021,"São Paulo","60-64",NA,"(Outros)",2
+2021,"São Paulo","60-64","Masculino","(Outros)",3663
+2021,"São Paulo","60-64",NA,"(B342)",1
+2021,"São Paulo","60-64",NA,"(Outros)",1
+2021,"São Paulo","65-69","Feminino","(B342)",1351
 2021,"São Paulo","65-69","Feminino","(D65-D77)",3
 2021,"São Paulo","65-69","Feminino","(D80-D89)",1
 2021,"São Paulo","65-69","Feminino","(E10-E14)",184
@@ -7978,7 +8165,8 @@
 2021,"São Paulo","65-69","Feminino","(J40-J44)",98
 2021,"São Paulo","65-69","Feminino","(J45-J46)",5
 2021,"São Paulo","65-69","Feminino","(N17-N19)",31
-2021,"São Paulo","65-69","Feminino","(Outros)",4278
+2021,"São Paulo","65-69","Feminino","(Outros)",2927
+2021,"São Paulo","65-69","Masculino","(B342)",1760
 2021,"São Paulo","65-69","Masculino","(D65-D77)",8
 2021,"São Paulo","65-69","Masculino","(E10-E14)",178
 2021,"São Paulo","65-69","Masculino","(E66)",9
@@ -7989,8 +8177,9 @@
 2021,"São Paulo","65-69","Masculino","(J40-J44)",152
 2021,"São Paulo","65-69","Masculino","(J45-J46)",8
 2021,"São Paulo","65-69","Masculino","(N17-N19)",61
-2021,"São Paulo","65-69","Masculino","(Outros)",5766
-2021,"São Paulo","65-69",NA,"(Outros)",3
+2021,"São Paulo","65-69","Masculino","(Outros)",4006
+2021,"São Paulo","65-69",NA,"(B342)",3
+2021,"São Paulo","70-74","Feminino","(B342)",1352
 2021,"São Paulo","70-74","Feminino","(D65-D77)",4
 2021,"São Paulo","70-74","Feminino","(E10-E14)",196
 2021,"São Paulo","70-74","Feminino","(E66)",18
@@ -8001,7 +8190,8 @@
 2021,"São Paulo","70-74","Feminino","(J40-J44)",145
 2021,"São Paulo","70-74","Feminino","(J45-J46)",4
 2021,"São Paulo","70-74","Feminino","(N17-N19)",43
-2021,"São Paulo","70-74","Feminino","(Outros)",4821
+2021,"São Paulo","70-74","Feminino","(Outros)",3469
+2021,"São Paulo","70-74","Masculino","(B342)",1614
 2021,"São Paulo","70-74","Masculino","(D65-D77)",8
 2021,"São Paulo","70-74","Masculino","(E10-E14)",216
 2021,"São Paulo","70-74","Masculino","(E66)",8
@@ -8012,7 +8202,8 @@
 2021,"São Paulo","70-74","Masculino","(J40-J44)",164
 2021,"São Paulo","70-74","Masculino","(J45-J46)",4
 2021,"São Paulo","70-74","Masculino","(N17-N19)",60
-2021,"São Paulo","70-74","Masculino","(Outros)",5500
+2021,"São Paulo","70-74","Masculino","(Outros)",3886
+2021,"São Paulo","75-79","Feminino","(B342)",1076
 2021,"São Paulo","75-79","Feminino","(D65-D77)",3
 2021,"São Paulo","75-79","Feminino","(E10-E14)",213
 2021,"São Paulo","75-79","Feminino","(E66)",8
@@ -8023,7 +8214,8 @@
 2021,"São Paulo","75-79","Feminino","(J40-J44)",156
 2021,"São Paulo","75-79","Feminino","(J45-J46)",9
 2021,"São Paulo","75-79","Feminino","(N17-N19)",45
-2021,"São Paulo","75-79","Feminino","(Outros)",4903
+2021,"São Paulo","75-79","Feminino","(Outros)",3827
+2021,"São Paulo","75-79","Masculino","(B342)",1346
 2021,"São Paulo","75-79","Masculino","(D65-D77)",8
 2021,"São Paulo","75-79","Masculino","(E10-E14)",212
 2021,"São Paulo","75-79","Masculino","(G10-G99)",29
@@ -8033,8 +8225,10 @@
 2021,"São Paulo","75-79","Masculino","(J40-J44)",165
 2021,"São Paulo","75-79","Masculino","(J45-J46)",5
 2021,"São Paulo","75-79","Masculino","(N17-N19)",63
-2021,"São Paulo","75-79","Masculino","(Outros)",5040
-2021,"São Paulo","75-79",NA,"(Outros)",5
+2021,"São Paulo","75-79","Masculino","(Outros)",3694
+2021,"São Paulo","75-79",NA,"(B342)",3
+2021,"São Paulo","75-79",NA,"(Outros)",2
+2021,"São Paulo","80+","Feminino","(B342)",2515
 2021,"São Paulo","80+","Feminino","(D65-D77)",15
 2021,"São Paulo","80+","Feminino","(E10-E14)",737
 2021,"São Paulo","80+","Feminino","(E66)",18
@@ -8045,7 +8239,8 @@
 2021,"São Paulo","80+","Feminino","(J40-J44)",406
 2021,"São Paulo","80+","Feminino","(J45-J46)",20
 2021,"São Paulo","80+","Feminino","(N17-N19)",245
-2021,"São Paulo","80+","Feminino","(Outros)",18167
+2021,"São Paulo","80+","Feminino","(Outros)",15652
+2021,"São Paulo","80+","Masculino","(B342)",2229
 2021,"São Paulo","80+","Masculino","(D65-D77)",12
 2021,"São Paulo","80+","Masculino","(D80-D89)",3
 2021,"São Paulo","80+","Masculino","(E10-E14)",399
@@ -8057,75 +8252,90 @@
 2021,"São Paulo","80+","Masculino","(J40-J44)",384
 2021,"São Paulo","80+","Masculino","(J45-J46)",8
 2021,"São Paulo","80+","Masculino","(N17-N19)",168
-2021,"São Paulo","80+","Masculino","(Outros)",11354
-2021,"São Paulo","80+",NA,"(Outros)",4
+2021,"São Paulo","80+","Masculino","(Outros)",9125
+2021,"São Paulo","80+",NA,"(B342)",3
+2021,"São Paulo","80+",NA,"(Outros)",1
 2021,"São Paulo",NA,"Feminino","(I20, I23-I25)",1
 2021,"São Paulo",NA,"Feminino","(Outros)",26
+2021,"São Paulo",NA,"Masculino","(B342)",2
 2021,"São Paulo",NA,"Masculino","(E10-E14)",1
 2021,"São Paulo",NA,"Masculino","(I20, I23-I25)",1
-2021,"São Paulo",NA,"Masculino","(Outros)",169
-2021,"São Paulo",NA,NA,"(Outros)",5
+2021,"São Paulo",NA,"Masculino","(Outros)",167
+2021,"São Paulo",NA,NA,"(B342)",2
+2021,"São Paulo",NA,NA,"(Outros)",3
 2022,"Campinas","0-4","Feminino","(G10-G99)",1
 2022,"Campinas","0-4","Feminino","(N17-N19)",1
 2022,"Campinas","0-4","Feminino","(Outros)",67
-2022,"Campinas","0-4","Masculino","(Outros)",81
+2022,"Campinas","0-4","Masculino","(B342)",3
+2022,"Campinas","0-4","Masculino","(Outros)",78
 2022,"Campinas","0-4",NA,"(Outros)",1
 2022,"Campinas","10-14","Feminino","(D65-D77)",1
 2022,"Campinas","10-14","Feminino","(Outros)",3
-2022,"Campinas","10-14","Masculino","(Outros)",10
+2022,"Campinas","10-14","Masculino","(B342)",1
+2022,"Campinas","10-14","Masculino","(Outros)",9
 2022,"Campinas","15-19","Feminino","(Outros)",2
+2022,"Campinas","15-19","Masculino","(B342)",1
 2022,"Campinas","15-19","Masculino","(E10-E14)",2
 2022,"Campinas","15-19","Masculino","(G10-G99)",1
 2022,"Campinas","15-19","Masculino","(J45-J46)",1
-2022,"Campinas","15-19","Masculino","(Outros)",28
+2022,"Campinas","15-19","Masculino","(Outros)",27
 2022,"Campinas","20-24","Feminino","(I20, I23-I25)",1
 2022,"Campinas","20-24","Feminino","(I80-I82)",1
 2022,"Campinas","20-24","Feminino","(Outros)",13
 2022,"Campinas","20-24","Masculino","(E10-E14)",1
 2022,"Campinas","20-24","Masculino","(G10-G99)",2
 2022,"Campinas","20-24","Masculino","(Outros)",58
+2022,"Campinas","25-29","Feminino","(B342)",2
 2022,"Campinas","25-29","Feminino","(E10-E14)",2
 2022,"Campinas","25-29","Feminino","(N17-N19)",1
-2022,"Campinas","25-29","Feminino","(Outros)",14
+2022,"Campinas","25-29","Feminino","(Outros)",12
+2022,"Campinas","25-29","Masculino","(B342)",2
 2022,"Campinas","25-29","Masculino","(E10-E14)",1
 2022,"Campinas","25-29","Masculino","(G10-G99)",2
-2022,"Campinas","25-29","Masculino","(Outros)",85
+2022,"Campinas","25-29","Masculino","(Outros)",83
+2022,"Campinas","30-34","Feminino","(B342)",1
 2022,"Campinas","30-34","Feminino","(E10-E14)",1
 2022,"Campinas","30-34","Feminino","(J45-J46)",1
 2022,"Campinas","30-34","Feminino","(N17-N19)",1
-2022,"Campinas","30-34","Feminino","(Outros)",33
+2022,"Campinas","30-34","Feminino","(Outros)",32
+2022,"Campinas","30-34","Masculino","(B342)",3
 2022,"Campinas","30-34","Masculino","(D65-D77)",1
 2022,"Campinas","30-34","Masculino","(E10-E14)",1
 2022,"Campinas","30-34","Masculino","(J45-J46)",1
-2022,"Campinas","30-34","Masculino","(Outros)",81
+2022,"Campinas","30-34","Masculino","(Outros)",78
 2022,"Campinas","35-39","Feminino","(E10-E14)",2
 2022,"Campinas","35-39","Feminino","(E66)",2
 2022,"Campinas","35-39","Feminino","(G10-G99)",2
 2022,"Campinas","35-39","Feminino","(Outros)",40
+2022,"Campinas","35-39","Masculino","(B342)",6
 2022,"Campinas","35-39","Masculino","(E10-E14)",1
 2022,"Campinas","35-39","Masculino","(E66)",2
 2022,"Campinas","35-39","Masculino","(G10-G99)",1
 2022,"Campinas","35-39","Masculino","(I20, I23-I25)",1
 2022,"Campinas","35-39","Masculino","(J09-J11)",1
 2022,"Campinas","35-39","Masculino","(J45-J46)",1
-2022,"Campinas","35-39","Masculino","(Outros)",101
+2022,"Campinas","35-39","Masculino","(Outros)",95
+2022,"Campinas","40-44","Feminino","(B342)",3
 2022,"Campinas","40-44","Feminino","(D65-D77)",2
 2022,"Campinas","40-44","Feminino","(E10-E14)",1
 2022,"Campinas","40-44","Feminino","(G10-G99)",2
 2022,"Campinas","40-44","Feminino","(J40-J44)",2
 2022,"Campinas","40-44","Feminino","(J45-J46)",1
-2022,"Campinas","40-44","Feminino","(Outros)",66
+2022,"Campinas","40-44","Feminino","(Outros)",63
+2022,"Campinas","40-44","Masculino","(B342)",4
 2022,"Campinas","40-44","Masculino","(E10-E14)",1
 2022,"Campinas","40-44","Masculino","(E66)",2
 2022,"Campinas","40-44","Masculino","(I20, I23-I25)",5
 2022,"Campinas","40-44","Masculino","(N17-N19)",1
-2022,"Campinas","40-44","Masculino","(Outros)",128
+2022,"Campinas","40-44","Masculino","(Outros)",124
+2022,"Campinas","45-49","Feminino","(B342)",6
 2022,"Campinas","45-49","Feminino","(E10-E14)",4
 2022,"Campinas","45-49","Feminino","(I20, I23-I25)",2
 2022,"Campinas","45-49","Feminino","(J09-J11)",1
 2022,"Campinas","45-49","Feminino","(J40-J44)",1
 2022,"Campinas","45-49","Feminino","(J45-J46)",2
-2022,"Campinas","45-49","Feminino","(Outros)",96
+2022,"Campinas","45-49","Feminino","(Outros)",90
+2022,"Campinas","45-49","Masculino","(B342)",6
 2022,"Campinas","45-49","Masculino","(D65-D77)",1
 2022,"Campinas","45-49","Masculino","(E10-E14)",2
 2022,"Campinas","45-49","Masculino","(E66)",1
@@ -8133,23 +8343,27 @@
 2022,"Campinas","45-49","Masculino","(I20, I23-I25)",2
 2022,"Campinas","45-49","Masculino","(J40-J44)",1
 2022,"Campinas","45-49","Masculino","(N17-N19)",1
-2022,"Campinas","45-49","Masculino","(Outros)",172
+2022,"Campinas","45-49","Masculino","(Outros)",166
 2022,"Campinas","5-9","Feminino","(G10-G99)",1
 2022,"Campinas","5-9","Feminino","(Outros)",5
-2022,"Campinas","5-9","Masculino","(Outros)",8
+2022,"Campinas","5-9","Masculino","(B342)",1
+2022,"Campinas","5-9","Masculino","(Outros)",7
+2022,"Campinas","50-54","Feminino","(B342)",8
 2022,"Campinas","50-54","Feminino","(E10-E14)",8
 2022,"Campinas","50-54","Feminino","(E66)",2
 2022,"Campinas","50-54","Feminino","(G10-G99)",2
 2022,"Campinas","50-54","Feminino","(I80-I82)",2
 2022,"Campinas","50-54","Feminino","(J40-J44)",1
 2022,"Campinas","50-54","Feminino","(J45-J46)",1
-2022,"Campinas","50-54","Feminino","(Outros)",115
+2022,"Campinas","50-54","Feminino","(Outros)",107
+2022,"Campinas","50-54","Masculino","(B342)",8
 2022,"Campinas","50-54","Masculino","(E10-E14)",7
 2022,"Campinas","50-54","Masculino","(G10-G99)",3
 2022,"Campinas","50-54","Masculino","(I20, I23-I25)",1
 2022,"Campinas","50-54","Masculino","(J40-J44)",4
 2022,"Campinas","50-54","Masculino","(N17-N19)",1
-2022,"Campinas","50-54","Masculino","(Outros)",203
+2022,"Campinas","50-54","Masculino","(Outros)",195
+2022,"Campinas","55-59","Feminino","(B342)",11
 2022,"Campinas","55-59","Feminino","(D65-D77)",1
 2022,"Campinas","55-59","Feminino","(E10-E14)",8
 2022,"Campinas","55-59","Feminino","(E66)",2
@@ -8157,7 +8371,8 @@
 2022,"Campinas","55-59","Feminino","(I20, I23-I25)",2
 2022,"Campinas","55-59","Feminino","(I80-I82)",1
 2022,"Campinas","55-59","Feminino","(J40-J44)",4
-2022,"Campinas","55-59","Feminino","(Outros)",157
+2022,"Campinas","55-59","Feminino","(Outros)",146
+2022,"Campinas","55-59","Masculino","(B342)",22
 2022,"Campinas","55-59","Masculino","(E10-E14)",11
 2022,"Campinas","55-59","Masculino","(E66)",1
 2022,"Campinas","55-59","Masculino","(G10-G99)",3
@@ -8165,7 +8380,8 @@
 2022,"Campinas","55-59","Masculino","(J09-J11)",2
 2022,"Campinas","55-59","Masculino","(J40-J44)",8
 2022,"Campinas","55-59","Masculino","(N17-N19)",1
-2022,"Campinas","55-59","Masculino","(Outros)",317
+2022,"Campinas","55-59","Masculino","(Outros)",295
+2022,"Campinas","60-64","Feminino","(B342)",19
 2022,"Campinas","60-64","Feminino","(D65-D77)",2
 2022,"Campinas","60-64","Feminino","(E10-E14)",10
 2022,"Campinas","60-64","Feminino","(E66)",1
@@ -8174,7 +8390,8 @@
 2022,"Campinas","60-64","Feminino","(J09-J11)",2
 2022,"Campinas","60-64","Feminino","(J40-J44)",11
 2022,"Campinas","60-64","Feminino","(N17-N19)",1
-2022,"Campinas","60-64","Feminino","(Outros)",235
+2022,"Campinas","60-64","Feminino","(Outros)",216
+2022,"Campinas","60-64","Masculino","(B342)",24
 2022,"Campinas","60-64","Masculino","(D80-D89)",1
 2022,"Campinas","60-64","Masculino","(E10-E14)",12
 2022,"Campinas","60-64","Masculino","(E66)",1
@@ -8185,7 +8402,8 @@
 2022,"Campinas","60-64","Masculino","(J40-J44)",10
 2022,"Campinas","60-64","Masculino","(J45-J46)",1
 2022,"Campinas","60-64","Masculino","(N17-N19)",5
-2022,"Campinas","60-64","Masculino","(Outros)",398
+2022,"Campinas","60-64","Masculino","(Outros)",374
+2022,"Campinas","65-69","Feminino","(B342)",28
 2022,"Campinas","65-69","Feminino","(D65-D77)",2
 2022,"Campinas","65-69","Feminino","(E10-E14)",12
 2022,"Campinas","65-69","Feminino","(E66)",2
@@ -8195,7 +8413,8 @@
 2022,"Campinas","65-69","Feminino","(J09-J11)",1
 2022,"Campinas","65-69","Feminino","(J40-J44)",16
 2022,"Campinas","65-69","Feminino","(N17-N19)",4
-2022,"Campinas","65-69","Feminino","(Outros)",303
+2022,"Campinas","65-69","Feminino","(Outros)",275
+2022,"Campinas","65-69","Masculino","(B342)",36
 2022,"Campinas","65-69","Masculino","(D65-D77)",2
 2022,"Campinas","65-69","Masculino","(D80-D89)",1
 2022,"Campinas","65-69","Masculino","(E10-E14)",20
@@ -8205,7 +8424,8 @@
 2022,"Campinas","65-69","Masculino","(J40-J44)",14
 2022,"Campinas","65-69","Masculino","(J45-J46)",1
 2022,"Campinas","65-69","Masculino","(N17-N19)",4
-2022,"Campinas","65-69","Masculino","(Outros)",434
+2022,"Campinas","65-69","Masculino","(Outros)",398
+2022,"Campinas","70-74","Feminino","(B342)",32
 2022,"Campinas","70-74","Feminino","(E10-E14)",14
 2022,"Campinas","70-74","Feminino","(E66)",2
 2022,"Campinas","70-74","Feminino","(G10-G99)",7
@@ -8213,7 +8433,8 @@
 2022,"Campinas","70-74","Feminino","(J09-J11)",3
 2022,"Campinas","70-74","Feminino","(J40-J44)",17
 2022,"Campinas","70-74","Feminino","(N17-N19)",5
-2022,"Campinas","70-74","Feminino","(Outros)",400
+2022,"Campinas","70-74","Feminino","(Outros)",368
+2022,"Campinas","70-74","Masculino","(B342)",48
 2022,"Campinas","70-74","Masculino","(D65-D77)",1
 2022,"Campinas","70-74","Masculino","(E10-E14)",18
 2022,"Campinas","70-74","Masculino","(E66)",2
@@ -8222,7 +8443,8 @@
 2022,"Campinas","70-74","Masculino","(I80-I82)",1
 2022,"Campinas","70-74","Masculino","(J40-J44)",21
 2022,"Campinas","70-74","Masculino","(N17-N19)",2
-2022,"Campinas","70-74","Masculino","(Outros)",441
+2022,"Campinas","70-74","Masculino","(Outros)",393
+2022,"Campinas","75-79","Feminino","(B342)",42
 2022,"Campinas","75-79","Feminino","(D65-D77)",1
 2022,"Campinas","75-79","Feminino","(E10-E14)",18
 2022,"Campinas","75-79","Feminino","(G10-G99)",10
@@ -8232,7 +8454,8 @@
 2022,"Campinas","75-79","Feminino","(J40-J44)",23
 2022,"Campinas","75-79","Feminino","(J45-J46)",1
 2022,"Campinas","75-79","Feminino","(N17-N19)",4
-2022,"Campinas","75-79","Feminino","(Outros)",423
+2022,"Campinas","75-79","Feminino","(Outros)",381
+2022,"Campinas","75-79","Masculino","(B342)",43
 2022,"Campinas","75-79","Masculino","(D65-D77)",1
 2022,"Campinas","75-79","Masculino","(E10-E14)",26
 2022,"Campinas","75-79","Masculino","(G10-G99)",12
@@ -8241,7 +8464,8 @@
 2022,"Campinas","75-79","Masculino","(J09-J11)",1
 2022,"Campinas","75-79","Masculino","(J40-J44)",26
 2022,"Campinas","75-79","Masculino","(N17-N19)",15
-2022,"Campinas","75-79","Masculino","(Outros)",428
+2022,"Campinas","75-79","Masculino","(Outros)",385
+2022,"Campinas","80+","Feminino","(B342)",156
 2022,"Campinas","80+","Feminino","(D65-D77)",3
 2022,"Campinas","80+","Feminino","(E10-E14)",70
 2022,"Campinas","80+","Feminino","(E66)",2
@@ -8252,7 +8476,8 @@
 2022,"Campinas","80+","Feminino","(J40-J44)",65
 2022,"Campinas","80+","Feminino","(J45-J46)",2
 2022,"Campinas","80+","Feminino","(N17-N19)",30
-2022,"Campinas","80+","Feminino","(Outros)",1773
+2022,"Campinas","80+","Feminino","(Outros)",1617
+2022,"Campinas","80+","Masculino","(B342)",160
 2022,"Campinas","80+","Masculino","(D65-D77)",2
 2022,"Campinas","80+","Masculino","(E10-E14)",35
 2022,"Campinas","80+","Masculino","(G10-G99)",48
@@ -8261,76 +8486,91 @@
 2022,"Campinas","80+","Masculino","(J09-J11)",10
 2022,"Campinas","80+","Masculino","(J40-J44)",69
 2022,"Campinas","80+","Masculino","(N17-N19)",22
-2022,"Campinas","80+","Masculino","(Outros)",1216
+2022,"Campinas","80+","Masculino","(Outros)",1056
 2022,"Campinas",NA,"Masculino","(Outros)",4
+2022,"Guarulhos","0-4","Feminino","(B342)",1
 2022,"Guarulhos","0-4","Feminino","(G10-G99)",5
 2022,"Guarulhos","0-4","Feminino","(N17-N19)",1
-2022,"Guarulhos","0-4","Feminino","(Outros)",113
+2022,"Guarulhos","0-4","Feminino","(Outros)",112
+2022,"Guarulhos","0-4","Masculino","(B342)",4
 2022,"Guarulhos","0-4","Masculino","(D65-D77)",1
 2022,"Guarulhos","0-4","Masculino","(G10-G99)",2
-2022,"Guarulhos","0-4","Masculino","(Outros)",154
+2022,"Guarulhos","0-4","Masculino","(Outros)",150
 2022,"Guarulhos","10-14","Feminino","(Outros)",6
 2022,"Guarulhos","10-14","Masculino","(Outros)",8
 2022,"Guarulhos","15-19","Feminino","(Outros)",20
+2022,"Guarulhos","15-19","Masculino","(B342)",1
 2022,"Guarulhos","15-19","Masculino","(E10-E14)",1
 2022,"Guarulhos","15-19","Masculino","(G10-G99)",1
-2022,"Guarulhos","15-19","Masculino","(Outros)",48
+2022,"Guarulhos","15-19","Masculino","(Outros)",47
+2022,"Guarulhos","20-24","Feminino","(B342)",1
 2022,"Guarulhos","20-24","Feminino","(D65-D77)",1
-2022,"Guarulhos","20-24","Feminino","(Outros)",26
+2022,"Guarulhos","20-24","Feminino","(Outros)",25
 2022,"Guarulhos","20-24","Masculino","(G10-G99)",2
 2022,"Guarulhos","20-24","Masculino","(Outros)",96
 2022,"Guarulhos","25-29","Feminino","(E10-E14)",3
 2022,"Guarulhos","25-29","Feminino","(Outros)",38
+2022,"Guarulhos","25-29","Masculino","(B342)",3
 2022,"Guarulhos","25-29","Masculino","(G10-G99)",1
 2022,"Guarulhos","25-29","Masculino","(I20, I23-I25)",3
 2022,"Guarulhos","25-29","Masculino","(N17-N19)",1
-2022,"Guarulhos","25-29","Masculino","(Outros)",84
+2022,"Guarulhos","25-29","Masculino","(Outros)",81
+2022,"Guarulhos","30-34","Feminino","(B342)",5
 2022,"Guarulhos","30-34","Feminino","(G10-G99)",2
 2022,"Guarulhos","30-34","Feminino","(I20, I23-I25)",1
 2022,"Guarulhos","30-34","Feminino","(I80-I82)",2
-2022,"Guarulhos","30-34","Feminino","(Outros)",58
+2022,"Guarulhos","30-34","Feminino","(Outros)",53
+2022,"Guarulhos","30-34","Masculino","(B342)",4
 2022,"Guarulhos","30-34","Masculino","(E10-E14)",1
 2022,"Guarulhos","30-34","Masculino","(E66)",1
 2022,"Guarulhos","30-34","Masculino","(I20, I23-I25)",1
-2022,"Guarulhos","30-34","Masculino","(Outros)",120
+2022,"Guarulhos","30-34","Masculino","(Outros)",116
+2022,"Guarulhos","35-39","Feminino","(B342)",3
 2022,"Guarulhos","35-39","Feminino","(E10-E14)",3
 2022,"Guarulhos","35-39","Feminino","(I20, I23-I25)",3
-2022,"Guarulhos","35-39","Feminino","(Outros)",74
+2022,"Guarulhos","35-39","Feminino","(Outros)",71
+2022,"Guarulhos","35-39","Masculino","(B342)",3
 2022,"Guarulhos","35-39","Masculino","(E10-E14)",8
 2022,"Guarulhos","35-39","Masculino","(E66)",1
 2022,"Guarulhos","35-39","Masculino","(J40-J44)",1
 2022,"Guarulhos","35-39","Masculino","(J45-J46)",1
 2022,"Guarulhos","35-39","Masculino","(N17-N19)",1
-2022,"Guarulhos","35-39","Masculino","(Outros)",140
+2022,"Guarulhos","35-39","Masculino","(Outros)",137
+2022,"Guarulhos","40-44","Feminino","(B342)",2
 2022,"Guarulhos","40-44","Feminino","(I80-I82)",2
 2022,"Guarulhos","40-44","Feminino","(J40-J44)",1
 2022,"Guarulhos","40-44","Feminino","(J45-J46)",1
-2022,"Guarulhos","40-44","Feminino","(Outros)",105
+2022,"Guarulhos","40-44","Feminino","(Outros)",103
+2022,"Guarulhos","40-44","Masculino","(B342)",3
 2022,"Guarulhos","40-44","Masculino","(E10-E14)",4
 2022,"Guarulhos","40-44","Masculino","(E66)",1
 2022,"Guarulhos","40-44","Masculino","(G10-G99)",1
 2022,"Guarulhos","40-44","Masculino","(I20, I23-I25)",1
 2022,"Guarulhos","40-44","Masculino","(J40-J44)",1
 2022,"Guarulhos","40-44","Masculino","(N17-N19)",2
-2022,"Guarulhos","40-44","Masculino","(Outros)",189
+2022,"Guarulhos","40-44","Masculino","(Outros)",186
+2022,"Guarulhos","45-49","Feminino","(B342)",8
 2022,"Guarulhos","45-49","Feminino","(E10-E14)",3
 2022,"Guarulhos","45-49","Feminino","(E66)",1
 2022,"Guarulhos","45-49","Feminino","(G10-G99)",2
 2022,"Guarulhos","45-49","Feminino","(I20, I23-I25)",1
 2022,"Guarulhos","45-49","Feminino","(J40-J44)",2
-2022,"Guarulhos","45-49","Feminino","(Outros)",141
+2022,"Guarulhos","45-49","Feminino","(Outros)",133
+2022,"Guarulhos","45-49","Masculino","(B342)",5
 2022,"Guarulhos","45-49","Masculino","(E10-E14)",1
 2022,"Guarulhos","45-49","Masculino","(G10-G99)",2
 2022,"Guarulhos","45-49","Masculino","(I20, I23-I25)",14
 2022,"Guarulhos","45-49","Masculino","(I80-I82)",1
 2022,"Guarulhos","45-49","Masculino","(J40-J44)",1
 2022,"Guarulhos","45-49","Masculino","(N17-N19)",3
-2022,"Guarulhos","45-49","Masculino","(Outros)",220
+2022,"Guarulhos","45-49","Masculino","(Outros)",215
+2022,"Guarulhos","5-9","Feminino","(B342)",1
 2022,"Guarulhos","5-9","Feminino","(G10-G99)",1
-2022,"Guarulhos","5-9","Feminino","(Outros)",9
+2022,"Guarulhos","5-9","Feminino","(Outros)",8
 2022,"Guarulhos","5-9","Masculino","(D65-D77)",1
 2022,"Guarulhos","5-9","Masculino","(J45-J46)",1
 2022,"Guarulhos","5-9","Masculino","(Outros)",12
+2022,"Guarulhos","50-54","Feminino","(B342)",6
 2022,"Guarulhos","50-54","Feminino","(E10-E14)",5
 2022,"Guarulhos","50-54","Feminino","(E66)",1
 2022,"Guarulhos","50-54","Feminino","(G10-G99)",1
@@ -8339,7 +8579,8 @@
 2022,"Guarulhos","50-54","Feminino","(J40-J44)",3
 2022,"Guarulhos","50-54","Feminino","(J45-J46)",1
 2022,"Guarulhos","50-54","Feminino","(N17-N19)",3
-2022,"Guarulhos","50-54","Feminino","(Outros)",184
+2022,"Guarulhos","50-54","Feminino","(Outros)",178
+2022,"Guarulhos","50-54","Masculino","(B342)",12
 2022,"Guarulhos","50-54","Masculino","(D65-D77)",1
 2022,"Guarulhos","50-54","Masculino","(D80-D89)",1
 2022,"Guarulhos","50-54","Masculino","(E10-E14)",6
@@ -8348,7 +8589,8 @@
 2022,"Guarulhos","50-54","Masculino","(J09-J11)",1
 2022,"Guarulhos","50-54","Masculino","(J40-J44)",5
 2022,"Guarulhos","50-54","Masculino","(N17-N19)",4
-2022,"Guarulhos","50-54","Masculino","(Outros)",335
+2022,"Guarulhos","50-54","Masculino","(Outros)",323
+2022,"Guarulhos","55-59","Feminino","(B342)",12
 2022,"Guarulhos","55-59","Feminino","(D65-D77)",1
 2022,"Guarulhos","55-59","Feminino","(E10-E14)",10
 2022,"Guarulhos","55-59","Feminino","(E66)",1
@@ -8357,7 +8599,8 @@
 2022,"Guarulhos","55-59","Feminino","(J40-J44)",6
 2022,"Guarulhos","55-59","Feminino","(J45-J46)",2
 2022,"Guarulhos","55-59","Feminino","(N17-N19)",4
-2022,"Guarulhos","55-59","Feminino","(Outros)",223
+2022,"Guarulhos","55-59","Feminino","(Outros)",211
+2022,"Guarulhos","55-59","Masculino","(B342)",16
 2022,"Guarulhos","55-59","Masculino","(D65-D77)",1
 2022,"Guarulhos","55-59","Masculino","(E10-E14)",11
 2022,"Guarulhos","55-59","Masculino","(E66)",1
@@ -8366,7 +8609,8 @@
 2022,"Guarulhos","55-59","Masculino","(J09-J11)",1
 2022,"Guarulhos","55-59","Masculino","(J40-J44)",4
 2022,"Guarulhos","55-59","Masculino","(N17-N19)",7
-2022,"Guarulhos","55-59","Masculino","(Outros)",393
+2022,"Guarulhos","55-59","Masculino","(Outros)",377
+2022,"Guarulhos","60-64","Feminino","(B342)",16
 2022,"Guarulhos","60-64","Feminino","(D65-D77)",1
 2022,"Guarulhos","60-64","Feminino","(E10-E14)",10
 2022,"Guarulhos","60-64","Feminino","(E66)",2
@@ -8376,7 +8620,8 @@
 2022,"Guarulhos","60-64","Feminino","(J40-J44)",14
 2022,"Guarulhos","60-64","Feminino","(J45-J46)",1
 2022,"Guarulhos","60-64","Feminino","(N17-N19)",4
-2022,"Guarulhos","60-64","Feminino","(Outros)",300
+2022,"Guarulhos","60-64","Feminino","(Outros)",284
+2022,"Guarulhos","60-64","Masculino","(B342)",22
 2022,"Guarulhos","60-64","Masculino","(D65-D77)",1
 2022,"Guarulhos","60-64","Masculino","(E10-E14)",20
 2022,"Guarulhos","60-64","Masculino","(E66)",1
@@ -8385,7 +8630,8 @@
 2022,"Guarulhos","60-64","Masculino","(J09-J11)",3
 2022,"Guarulhos","60-64","Masculino","(J40-J44)",11
 2022,"Guarulhos","60-64","Masculino","(N17-N19)",5
-2022,"Guarulhos","60-64","Masculino","(Outros)",443
+2022,"Guarulhos","60-64","Masculino","(Outros)",421
+2022,"Guarulhos","65-69","Feminino","(B342)",20
 2022,"Guarulhos","65-69","Feminino","(E10-E14)",16
 2022,"Guarulhos","65-69","Feminino","(E66)",2
 2022,"Guarulhos","65-69","Feminino","(G10-G99)",1
@@ -8394,7 +8640,8 @@
 2022,"Guarulhos","65-69","Feminino","(J40-J44)",15
 2022,"Guarulhos","65-69","Feminino","(J45-J46)",1
 2022,"Guarulhos","65-69","Feminino","(N17-N19)",7
-2022,"Guarulhos","65-69","Feminino","(Outros)",399
+2022,"Guarulhos","65-69","Feminino","(Outros)",379
+2022,"Guarulhos","65-69","Masculino","(B342)",34
 2022,"Guarulhos","65-69","Masculino","(E10-E14)",18
 2022,"Guarulhos","65-69","Masculino","(E66)",2
 2022,"Guarulhos","65-69","Masculino","(G10-G99)",1
@@ -8402,7 +8649,8 @@
 2022,"Guarulhos","65-69","Masculino","(J09-J11)",2
 2022,"Guarulhos","65-69","Masculino","(J40-J44)",30
 2022,"Guarulhos","65-69","Masculino","(N17-N19)",7
-2022,"Guarulhos","65-69","Masculino","(Outros)",502
+2022,"Guarulhos","65-69","Masculino","(Outros)",468
+2022,"Guarulhos","70-74","Feminino","(B342)",24
 2022,"Guarulhos","70-74","Feminino","(D80-D89)",1
 2022,"Guarulhos","70-74","Feminino","(E10-E14)",23
 2022,"Guarulhos","70-74","Feminino","(E66)",1
@@ -8411,21 +8659,24 @@
 2022,"Guarulhos","70-74","Feminino","(J40-J44)",20
 2022,"Guarulhos","70-74","Feminino","(J45-J46)",2
 2022,"Guarulhos","70-74","Feminino","(N17-N19)",5
-2022,"Guarulhos","70-74","Feminino","(Outros)",417
+2022,"Guarulhos","70-74","Feminino","(Outros)",393
+2022,"Guarulhos","70-74","Masculino","(B342)",25
 2022,"Guarulhos","70-74","Masculino","(E10-E14)",23
 2022,"Guarulhos","70-74","Masculino","(G10-G99)",7
 2022,"Guarulhos","70-74","Masculino","(I20, I23-I25)",19
 2022,"Guarulhos","70-74","Masculino","(J09-J11)",1
 2022,"Guarulhos","70-74","Masculino","(J40-J44)",28
 2022,"Guarulhos","70-74","Masculino","(N17-N19)",7
-2022,"Guarulhos","70-74","Masculino","(Outros)",504
+2022,"Guarulhos","70-74","Masculino","(Outros)",479
+2022,"Guarulhos","75-79","Feminino","(B342)",26
 2022,"Guarulhos","75-79","Feminino","(E10-E14)",30
 2022,"Guarulhos","75-79","Feminino","(G10-G99)",7
 2022,"Guarulhos","75-79","Feminino","(I20, I23-I25)",18
 2022,"Guarulhos","75-79","Feminino","(J09-J11)",1
 2022,"Guarulhos","75-79","Feminino","(J40-J44)",23
 2022,"Guarulhos","75-79","Feminino","(N17-N19)",9
-2022,"Guarulhos","75-79","Feminino","(Outros)",398
+2022,"Guarulhos","75-79","Feminino","(Outros)",372
+2022,"Guarulhos","75-79","Masculino","(B342)",29
 2022,"Guarulhos","75-79","Masculino","(D65-D77)",1
 2022,"Guarulhos","75-79","Masculino","(E10-E14)",18
 2022,"Guarulhos","75-79","Masculino","(G10-G99)",3
@@ -8433,7 +8684,8 @@
 2022,"Guarulhos","75-79","Masculino","(I80-I82)",1
 2022,"Guarulhos","75-79","Masculino","(J40-J44)",21
 2022,"Guarulhos","75-79","Masculino","(N17-N19)",12
-2022,"Guarulhos","75-79","Masculino","(Outros)",440
+2022,"Guarulhos","75-79","Masculino","(Outros)",411
+2022,"Guarulhos","80+","Feminino","(B342)",72
 2022,"Guarulhos","80+","Feminino","(D65-D77)",1
 2022,"Guarulhos","80+","Feminino","(E10-E14)",53
 2022,"Guarulhos","80+","Feminino","(E66)",4
@@ -8444,7 +8696,8 @@
 2022,"Guarulhos","80+","Feminino","(J40-J44)",42
 2022,"Guarulhos","80+","Feminino","(J45-J46)",4
 2022,"Guarulhos","80+","Feminino","(N17-N19)",21
-2022,"Guarulhos","80+","Feminino","(Outros)",1250
+2022,"Guarulhos","80+","Feminino","(Outros)",1178
+2022,"Guarulhos","80+","Masculino","(B342)",85
 2022,"Guarulhos","80+","Masculino","(E10-E14)",32
 2022,"Guarulhos","80+","Masculino","(G10-G99)",8
 2022,"Guarulhos","80+","Masculino","(I20, I23-I25)",28
@@ -8453,8 +8706,9 @@
 2022,"Guarulhos","80+","Masculino","(J40-J44)",45
 2022,"Guarulhos","80+","Masculino","(J45-J46)",2
 2022,"Guarulhos","80+","Masculino","(N17-N19)",17
-2022,"Guarulhos","80+","Masculino","(Outros)",793
+2022,"Guarulhos","80+","Masculino","(Outros)",708
 2022,"Guarulhos",NA,"Masculino","(Outros)",1
+2022,"São Paulo","0-4","Feminino","(B342)",14
 2022,"São Paulo","0-4","Feminino","(D65-D77)",1
 2022,"São Paulo","0-4","Feminino","(D80-D89)",1
 2022,"São Paulo","0-4","Feminino","(E10-E14)",1
@@ -8463,40 +8717,47 @@
 2022,"São Paulo","0-4","Feminino","(J09-J11)",1
 2022,"São Paulo","0-4","Feminino","(J45-J46)",1
 2022,"São Paulo","0-4","Feminino","(N17-N19)",1
-2022,"São Paulo","0-4","Feminino","(Outros)",746
+2022,"São Paulo","0-4","Feminino","(Outros)",732
+2022,"São Paulo","0-4","Masculino","(B342)",8
 2022,"São Paulo","0-4","Masculino","(D65-D77)",2
 2022,"São Paulo","0-4","Masculino","(D80-D89)",4
 2022,"São Paulo","0-4","Masculino","(G10-G99)",11
 2022,"São Paulo","0-4","Masculino","(J09-J11)",4
 2022,"São Paulo","0-4","Masculino","(J45-J46)",3
 2022,"São Paulo","0-4","Masculino","(N17-N19)",3
-2022,"São Paulo","0-4","Masculino","(Outros)",914
+2022,"São Paulo","0-4","Masculino","(Outros)",906
 2022,"São Paulo","0-4",NA,"(Outros)",1
+2022,"São Paulo","10-14","Feminino","(B342)",2
 2022,"São Paulo","10-14","Feminino","(D65-D77)",1
 2022,"São Paulo","10-14","Feminino","(G10-G99)",5
 2022,"São Paulo","10-14","Feminino","(I20, I23-I25)",1
 2022,"São Paulo","10-14","Feminino","(J45-J46)",1
-2022,"São Paulo","10-14","Feminino","(Outros)",73
+2022,"São Paulo","10-14","Feminino","(Outros)",71
+2022,"São Paulo","10-14","Masculino","(B342)",4
 2022,"São Paulo","10-14","Masculino","(D65-D77)",1
 2022,"São Paulo","10-14","Masculino","(G10-G99)",9
 2022,"São Paulo","10-14","Masculino","(J45-J46)",2
-2022,"São Paulo","10-14","Masculino","(Outros)",72
+2022,"São Paulo","10-14","Masculino","(Outros)",68
+2022,"São Paulo","15-19","Feminino","(B342)",7
 2022,"São Paulo","15-19","Feminino","(E10-E14)",2
 2022,"São Paulo","15-19","Feminino","(E66)",1
 2022,"São Paulo","15-19","Feminino","(G10-G99)",2
 2022,"São Paulo","15-19","Feminino","(J45-J46)",1
 2022,"São Paulo","15-19","Feminino","(N17-N19)",1
-2022,"São Paulo","15-19","Feminino","(Outros)",148
+2022,"São Paulo","15-19","Feminino","(Outros)",141
+2022,"São Paulo","15-19","Masculino","(B342)",2
 2022,"São Paulo","15-19","Masculino","(D65-D77)",2
 2022,"São Paulo","15-19","Masculino","(G10-G99)",6
-2022,"São Paulo","15-19","Masculino","(Outros)",316
+2022,"São Paulo","15-19","Masculino","(Outros)",314
+2022,"São Paulo","20-24","Feminino","(B342)",6
 2022,"São Paulo","20-24","Feminino","(E10-E14)",5
 2022,"São Paulo","20-24","Feminino","(G10-G99)",3
 2022,"São Paulo","20-24","Feminino","(I20, I23-I25)",3
 2022,"São Paulo","20-24","Feminino","(I80-I82)",1
 2022,"São Paulo","20-24","Feminino","(J09-J11)",1
 2022,"São Paulo","20-24","Feminino","(N17-N19)",1
-2022,"São Paulo","20-24","Feminino","(Outros)",213
+2022,"São Paulo","20-24","Feminino","(Outros)",207
+2022,"São Paulo","20-24","Masculino","(B342)",7
 2022,"São Paulo","20-24","Masculino","(D65-D77)",1
 2022,"São Paulo","20-24","Masculino","(E10-E14)",2
 2022,"São Paulo","20-24","Masculino","(E66)",3
@@ -8504,7 +8765,8 @@
 2022,"São Paulo","20-24","Masculino","(I20, I23-I25)",9
 2022,"São Paulo","20-24","Masculino","(J45-J46)",2
 2022,"São Paulo","20-24","Masculino","(N17-N19)",2
-2022,"São Paulo","20-24","Masculino","(Outros)",642
+2022,"São Paulo","20-24","Masculino","(Outros)",635
+2022,"São Paulo","25-29","Feminino","(B342)",5
 2022,"São Paulo","25-29","Feminino","(E10-E14)",5
 2022,"São Paulo","25-29","Feminino","(E66)",2
 2022,"São Paulo","25-29","Feminino","(G10-G99)",3
@@ -8512,7 +8774,8 @@
 2022,"São Paulo","25-29","Feminino","(J40-J44)",2
 2022,"São Paulo","25-29","Feminino","(J45-J46)",1
 2022,"São Paulo","25-29","Feminino","(N17-N19)",2
-2022,"São Paulo","25-29","Feminino","(Outros)",298
+2022,"São Paulo","25-29","Feminino","(Outros)",293
+2022,"São Paulo","25-29","Masculino","(B342)",11
 2022,"São Paulo","25-29","Masculino","(D65-D77)",2
 2022,"São Paulo","25-29","Masculino","(D80-D89)",1
 2022,"São Paulo","25-29","Masculino","(E10-E14)",12
@@ -8522,7 +8785,8 @@
 2022,"São Paulo","25-29","Masculino","(J09-J11)",1
 2022,"São Paulo","25-29","Masculino","(J40-J44)",2
 2022,"São Paulo","25-29","Masculino","(N17-N19)",2
-2022,"São Paulo","25-29","Masculino","(Outros)",718
+2022,"São Paulo","25-29","Masculino","(Outros)",707
+2022,"São Paulo","30-34","Feminino","(B342)",10
 2022,"São Paulo","30-34","Feminino","(E10-E14)",11
 2022,"São Paulo","30-34","Feminino","(E66)",1
 2022,"São Paulo","30-34","Feminino","(G10-G99)",5
@@ -8532,7 +8796,8 @@
 2022,"São Paulo","30-34","Feminino","(J40-J44)",2
 2022,"São Paulo","30-34","Feminino","(J45-J46)",5
 2022,"São Paulo","30-34","Feminino","(N17-N19)",8
-2022,"São Paulo","30-34","Feminino","(Outros)",387
+2022,"São Paulo","30-34","Feminino","(Outros)",377
+2022,"São Paulo","30-34","Masculino","(B342)",7
 2022,"São Paulo","30-34","Masculino","(E10-E14)",6
 2022,"São Paulo","30-34","Masculino","(E66)",2
 2022,"São Paulo","30-34","Masculino","(G10-G99)",7
@@ -8541,7 +8806,8 @@
 2022,"São Paulo","30-34","Masculino","(J40-J44)",2
 2022,"São Paulo","30-34","Masculino","(J45-J46)",1
 2022,"São Paulo","30-34","Masculino","(N17-N19)",2
-2022,"São Paulo","30-34","Masculino","(Outros)",834
+2022,"São Paulo","30-34","Masculino","(Outros)",827
+2022,"São Paulo","35-39","Feminino","(B342)",8
 2022,"São Paulo","35-39","Feminino","(D65-D77)",3
 2022,"São Paulo","35-39","Feminino","(E10-E14)",9
 2022,"São Paulo","35-39","Feminino","(E66)",6
@@ -8551,7 +8817,8 @@
 2022,"São Paulo","35-39","Feminino","(J40-J44)",2
 2022,"São Paulo","35-39","Feminino","(J45-J46)",4
 2022,"São Paulo","35-39","Feminino","(N17-N19)",4
-2022,"São Paulo","35-39","Feminino","(Outros)",518
+2022,"São Paulo","35-39","Feminino","(Outros)",510
+2022,"São Paulo","35-39","Masculino","(B342)",18
 2022,"São Paulo","35-39","Masculino","(D65-D77)",3
 2022,"São Paulo","35-39","Masculino","(E10-E14)",11
 2022,"São Paulo","35-39","Masculino","(E66)",3
@@ -8561,7 +8828,8 @@
 2022,"São Paulo","35-39","Masculino","(J40-J44)",3
 2022,"São Paulo","35-39","Masculino","(J45-J46)",2
 2022,"São Paulo","35-39","Masculino","(N17-N19)",6
-2022,"São Paulo","35-39","Masculino","(Outros)",1047
+2022,"São Paulo","35-39","Masculino","(Outros)",1029
+2022,"São Paulo","40-44","Feminino","(B342)",18
 2022,"São Paulo","40-44","Feminino","(D65-D77)",2
 2022,"São Paulo","40-44","Feminino","(E10-E14)",19
 2022,"São Paulo","40-44","Feminino","(E66)",6
@@ -8571,7 +8839,8 @@
 2022,"São Paulo","40-44","Feminino","(J40-J44)",5
 2022,"São Paulo","40-44","Feminino","(J45-J46)",6
 2022,"São Paulo","40-44","Feminino","(N17-N19)",5
-2022,"São Paulo","40-44","Feminino","(Outros)",701
+2022,"São Paulo","40-44","Feminino","(Outros)",683
+2022,"São Paulo","40-44","Masculino","(B342)",21
 2022,"São Paulo","40-44","Masculino","(D65-D77)",1
 2022,"São Paulo","40-44","Masculino","(E10-E14)",18
 2022,"São Paulo","40-44","Masculino","(E66)",5
@@ -8582,7 +8851,8 @@
 2022,"São Paulo","40-44","Masculino","(J40-J44)",9
 2022,"São Paulo","40-44","Masculino","(J45-J46)",6
 2022,"São Paulo","40-44","Masculino","(N17-N19)",5
-2022,"São Paulo","40-44","Masculino","(Outros)",1356
+2022,"São Paulo","40-44","Masculino","(Outros)",1335
+2022,"São Paulo","45-49","Feminino","(B342)",31
 2022,"São Paulo","45-49","Feminino","(D65-D77)",3
 2022,"São Paulo","45-49","Feminino","(E10-E14)",29
 2022,"São Paulo","45-49","Feminino","(E66)",3
@@ -8592,7 +8862,8 @@
 2022,"São Paulo","45-49","Feminino","(J09-J11)",3
 2022,"São Paulo","45-49","Feminino","(J40-J44)",9
 2022,"São Paulo","45-49","Feminino","(N17-N19)",3
-2022,"São Paulo","45-49","Feminino","(Outros)",920
+2022,"São Paulo","45-49","Feminino","(Outros)",889
+2022,"São Paulo","45-49","Masculino","(B342)",30
 2022,"São Paulo","45-49","Masculino","(D65-D77)",4
 2022,"São Paulo","45-49","Masculino","(D80-D89)",1
 2022,"São Paulo","45-49","Masculino","(E10-E14)",28
@@ -8604,15 +8875,17 @@
 2022,"São Paulo","45-49","Masculino","(J40-J44)",5
 2022,"São Paulo","45-49","Masculino","(J45-J46)",3
 2022,"São Paulo","45-49","Masculino","(N17-N19)",8
-2022,"São Paulo","45-49","Masculino","(Outros)",1684
+2022,"São Paulo","45-49","Masculino","(Outros)",1654
 2022,"São Paulo","5-9","Feminino","(D65-D77)",1
 2022,"São Paulo","5-9","Feminino","(G10-G99)",4
 2022,"São Paulo","5-9","Feminino","(J09-J11)",1
 2022,"São Paulo","5-9","Feminino","(J40-J44)",1
 2022,"São Paulo","5-9","Feminino","(Outros)",57
+2022,"São Paulo","5-9","Masculino","(B342)",2
 2022,"São Paulo","5-9","Masculino","(G10-G99)",6
 2022,"São Paulo","5-9","Masculino","(I20, I23-I25)",2
-2022,"São Paulo","5-9","Masculino","(Outros)",60
+2022,"São Paulo","5-9","Masculino","(Outros)",58
+2022,"São Paulo","50-54","Feminino","(B342)",32
 2022,"São Paulo","50-54","Feminino","(D65-D77)",2
 2022,"São Paulo","50-54","Feminino","(D80-D89)",1
 2022,"São Paulo","50-54","Feminino","(E10-E14)",40
@@ -8624,7 +8897,8 @@
 2022,"São Paulo","50-54","Feminino","(J40-J44)",20
 2022,"São Paulo","50-54","Feminino","(J45-J46)",1
 2022,"São Paulo","50-54","Feminino","(N17-N19)",9
-2022,"São Paulo","50-54","Feminino","(Outros)",1193
+2022,"São Paulo","50-54","Feminino","(Outros)",1161
+2022,"São Paulo","50-54","Masculino","(B342)",60
 2022,"São Paulo","50-54","Masculino","(D65-D77)",5
 2022,"São Paulo","50-54","Masculino","(E10-E14)",60
 2022,"São Paulo","50-54","Masculino","(E66)",9
@@ -8635,7 +8909,8 @@
 2022,"São Paulo","50-54","Masculino","(J40-J44)",25
 2022,"São Paulo","50-54","Masculino","(J45-J46)",3
 2022,"São Paulo","50-54","Masculino","(N17-N19)",13
-2022,"São Paulo","50-54","Masculino","(Outros)",2141
+2022,"São Paulo","50-54","Masculino","(Outros)",2081
+2022,"São Paulo","55-59","Feminino","(B342)",60
 2022,"São Paulo","55-59","Feminino","(D65-D77)",4
 2022,"São Paulo","55-59","Feminino","(E10-E14)",62
 2022,"São Paulo","55-59","Feminino","(E66)",7
@@ -8646,7 +8921,8 @@
 2022,"São Paulo","55-59","Feminino","(J40-J44)",40
 2022,"São Paulo","55-59","Feminino","(J45-J46)",1
 2022,"São Paulo","55-59","Feminino","(N17-N19)",21
-2022,"São Paulo","55-59","Feminino","(Outros)",1724
+2022,"São Paulo","55-59","Feminino","(Outros)",1664
+2022,"São Paulo","55-59","Masculino","(B342)",88
 2022,"São Paulo","55-59","Masculino","(D65-D77)",3
 2022,"São Paulo","55-59","Masculino","(E10-E14)",110
 2022,"São Paulo","55-59","Masculino","(E66)",10
@@ -8657,7 +8933,8 @@
 2022,"São Paulo","55-59","Masculino","(J40-J44)",46
 2022,"São Paulo","55-59","Masculino","(J45-J46)",3
 2022,"São Paulo","55-59","Masculino","(N17-N19)",25
-2022,"São Paulo","55-59","Masculino","(Outros)",2892
+2022,"São Paulo","55-59","Masculino","(Outros)",2804
+2022,"São Paulo","60-64","Feminino","(B342)",73
 2022,"São Paulo","60-64","Feminino","(D65-D77)",4
 2022,"São Paulo","60-64","Feminino","(D80-D89)",1
 2022,"São Paulo","60-64","Feminino","(E10-E14)",99
@@ -8669,7 +8946,8 @@
 2022,"São Paulo","60-64","Feminino","(J40-J44)",97
 2022,"São Paulo","60-64","Feminino","(J45-J46)",6
 2022,"São Paulo","60-64","Feminino","(N17-N19)",19
-2022,"São Paulo","60-64","Feminino","(Outros)",2372
+2022,"São Paulo","60-64","Feminino","(Outros)",2299
+2022,"São Paulo","60-64","Masculino","(B342)",113
 2022,"São Paulo","60-64","Masculino","(D65-D77)",7
 2022,"São Paulo","60-64","Masculino","(D80-D89)",1
 2022,"São Paulo","60-64","Masculino","(E10-E14)",147
@@ -8681,7 +8959,8 @@
 2022,"São Paulo","60-64","Masculino","(J40-J44)",100
 2022,"São Paulo","60-64","Masculino","(J45-J46)",2
 2022,"São Paulo","60-64","Masculino","(N17-N19)",30
-2022,"São Paulo","60-64","Masculino","(Outros)",3603
+2022,"São Paulo","60-64","Masculino","(Outros)",3490
+2022,"São Paulo","65-69","Feminino","(B342)",135
 2022,"São Paulo","65-69","Feminino","(D65-D77)",3
 2022,"São Paulo","65-69","Feminino","(E10-E14)",137
 2022,"São Paulo","65-69","Feminino","(E66)",15
@@ -8692,7 +8971,8 @@
 2022,"São Paulo","65-69","Feminino","(J40-J44)",156
 2022,"São Paulo","65-69","Feminino","(J45-J46)",4
 2022,"São Paulo","65-69","Feminino","(N17-N19)",29
-2022,"São Paulo","65-69","Feminino","(Outros)",3119
+2022,"São Paulo","65-69","Feminino","(Outros)",2984
+2022,"São Paulo","65-69","Masculino","(B342)",190
 2022,"São Paulo","65-69","Masculino","(D65-D77)",6
 2022,"São Paulo","65-69","Masculino","(E10-E14)",202
 2022,"São Paulo","65-69","Masculino","(E66)",7
@@ -8703,7 +8983,8 @@
 2022,"São Paulo","65-69","Masculino","(J40-J44)",168
 2022,"São Paulo","65-69","Masculino","(J45-J46)",1
 2022,"São Paulo","65-69","Masculino","(N17-N19)",44
-2022,"São Paulo","65-69","Masculino","(Outros)",4168
+2022,"São Paulo","65-69","Masculino","(Outros)",3978
+2022,"São Paulo","70-74","Feminino","(B342)",156
 2022,"São Paulo","70-74","Feminino","(D65-D77)",9
 2022,"São Paulo","70-74","Feminino","(E10-E14)",178
 2022,"São Paulo","70-74","Feminino","(E66)",7
@@ -8714,7 +8995,8 @@
 2022,"São Paulo","70-74","Feminino","(J40-J44)",153
 2022,"São Paulo","70-74","Feminino","(J45-J46)",9
 2022,"São Paulo","70-74","Feminino","(N17-N19)",21
-2022,"São Paulo","70-74","Feminino","(Outros)",3684
+2022,"São Paulo","70-74","Feminino","(Outros)",3528
+2022,"São Paulo","70-74","Masculino","(B342)",203
 2022,"São Paulo","70-74","Masculino","(D65-D77)",3
 2022,"São Paulo","70-74","Masculino","(D80-D89)",1
 2022,"São Paulo","70-74","Masculino","(E10-E14)",214
@@ -8725,7 +9007,8 @@
 2022,"São Paulo","70-74","Masculino","(J09-J11)",9
 2022,"São Paulo","70-74","Masculino","(J40-J44)",214
 2022,"São Paulo","70-74","Masculino","(N17-N19)",41
-2022,"São Paulo","70-74","Masculino","(Outros)",4234
+2022,"São Paulo","70-74","Masculino","(Outros)",4031
+2022,"São Paulo","75-79","Feminino","(B342)",186
 2022,"São Paulo","75-79","Feminino","(D65-D77)",4
 2022,"São Paulo","75-79","Feminino","(E10-E14)",239
 2022,"São Paulo","75-79","Feminino","(E66)",4
@@ -8736,7 +9019,8 @@
 2022,"São Paulo","75-79","Feminino","(J40-J44)",197
 2022,"São Paulo","75-79","Feminino","(J45-J46)",4
 2022,"São Paulo","75-79","Feminino","(N17-N19)",50
-2022,"São Paulo","75-79","Feminino","(Outros)",4141
+2022,"São Paulo","75-79","Feminino","(Outros)",3955
+2022,"São Paulo","75-79","Masculino","(B342)",241
 2022,"São Paulo","75-79","Masculino","(D65-D77)",6
 2022,"São Paulo","75-79","Masculino","(E10-E14)",176
 2022,"São Paulo","75-79","Masculino","(E66)",3
@@ -8747,7 +9031,8 @@
 2022,"São Paulo","75-79","Masculino","(J40-J44)",209
 2022,"São Paulo","75-79","Masculino","(J45-J46)",8
 2022,"São Paulo","75-79","Masculino","(N17-N19)",53
-2022,"São Paulo","75-79","Masculino","(Outros)",3968
+2022,"São Paulo","75-79","Masculino","(Outros)",3727
+2022,"São Paulo","80+","Feminino","(B342)",1008
 2022,"São Paulo","80+","Feminino","(D65-D77)",17
 2022,"São Paulo","80+","Feminino","(D80-D89)",3
 2022,"São Paulo","80+","Feminino","(E10-E14)",656
@@ -8759,7 +9044,8 @@
 2022,"São Paulo","80+","Feminino","(J40-J44)",524
 2022,"São Paulo","80+","Feminino","(J45-J46)",33
 2022,"São Paulo","80+","Feminino","(N17-N19)",199
-2022,"São Paulo","80+","Feminino","(Outros)",17423
+2022,"São Paulo","80+","Feminino","(Outros)",16415
+2022,"São Paulo","80+","Masculino","(B342)",810
 2022,"São Paulo","80+","Masculino","(D65-D77)",11
 2022,"São Paulo","80+","Masculino","(D80-D89)",2
 2022,"São Paulo","80+","Masculino","(E10-E14)",374
@@ -8771,8 +9057,9 @@
 2022,"São Paulo","80+","Masculino","(J40-J44)",486
 2022,"São Paulo","80+","Masculino","(J45-J46)",6
 2022,"São Paulo","80+","Masculino","(N17-N19)",132
-2022,"São Paulo","80+","Masculino","(Outros)",10116
+2022,"São Paulo","80+","Masculino","(Outros)",9306
 2022,"São Paulo",NA,"Feminino","(I20, I23-I25)",1
 2022,"São Paulo",NA,"Feminino","(Outros)",22
+2022,"São Paulo",NA,"Masculino","(B342)",1
 2022,"São Paulo",NA,"Masculino","(I20, I23-I25)",2
-2022,"São Paulo",NA,"Masculino","(Outros)",117
+2022,"São Paulo",NA,"Masculino","(Outros)",116

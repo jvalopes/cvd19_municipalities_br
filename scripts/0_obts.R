@@ -260,12 +260,15 @@ causas <- c("U04",
             "I80",
             "I81",
             "I82",
+            "B342",
             "Outros")
 
 # armazena de acordo com o padrao no vetor 'causas'
 # nesse contexto e util porque ha subcategorias das causas basicas acima
 # que devem ser selecionadas. Ou seja, a partir da função grepl, evita-se ter que 
 # especificar todas as categorias
+
+dft <- df5
 
 dft$causabas <- ifelse(dft$causabas %in% causas | grepl(paste(causas, 
                                                               collapse = "|"), 
@@ -284,6 +287,7 @@ mapeamento_causas <- c(
   "D80|D81|D82|D83|D84|D85|D86|D87|D88|D89" = "(D80-D89)",
   "D65|D66|D67|D68|D69|D70|D71|D72|D73|D74|D75|D76|D77" = "(D65-D77)",
   "I80|I81|I82" = "(I80-I82)",
+  "B342" = "(B342)",
   "Outros" = "(Outros)"
 )
 
@@ -355,6 +359,7 @@ ordem <- c(
   "(D80-D89)",
   "(D65-D77)",
   "(I80-I82)",
+  "(B342)",
   "(Outros)"
 )
 
@@ -379,15 +384,15 @@ any(is.na(causa_tot$sexo))
 
 # any(is.na(causa_tot$causabas))
 
-explr_causas2 <- ggplot(causa_tot) +
+explr_causas <- ggplot(causa_tot) +
   aes(x = ano, 
       y = log(total_obitos), 
       colour = sexo) +
-  #scale_color_manual(values = cores_manual) +
+  scale_color_manual(values = cores_manual) +
   #scale_shape_manual(values = shapes_manual) +
-  geom_point(size = 1.5, alpha = .7, color = "black", stroke = .7) +
-  #geom_line() +
-  geom_smooth(colour = "darkred", fill = "darkred", se = T) +
+  geom_point(size = 1.5, alpha = .7, stroke = .7) +
+  geom_line() +
+  #geom_smooth(colour = "darkred", fill = "darkred", se = T) +
   labs(x = "Anos", 
        y = "Total de óbitos, escala log", 
        colour = "", 
@@ -421,12 +426,12 @@ ggsave(filename = 'imgs/covid_sp.pdf',
        width = 10,
        height = 8)
 
-ggsave(filename = 'imgs/explr_causas.png',
+ggsave(filename = 'imgs/explr_causas.pdf',
        plot = explr_causas,
        width = 14,
        height = 8)
 
-ggsave(filename = 'imgs/explr_causas2.png',
+ggsave(filename = 'imgs/explr_causas2.pdf',
        plot = explr_causas2,
        width = 14,
        height = 8)

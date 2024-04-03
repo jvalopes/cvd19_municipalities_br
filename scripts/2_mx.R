@@ -31,7 +31,7 @@ cb <- expand.grid(
   causabas = c(
     "(U04)", "(J09-J11)", "(I20, I23-I25)", "(E10-E14)", "(E66)",
     "(J45-J46)", "(J40-J44)", "(G10-G99)", "(N17-N19)", "(D80-D89)",
-    "(D65-D77)", "(I80-I82)", "(Outros)"
+    "(D65-D77)", "(I80-I82)", "(B342)", "(Outros)"
   )
 )
 
@@ -176,6 +176,7 @@ ordem <- c(
   "(D80-D89)", #10
   "(D65-D77)", #11
   "(I80-I82)", #12
+  "(B34)", # cvd
   "(Outros)" #13
 )
 
@@ -471,6 +472,30 @@ rates12 <- tidyrates::rate_adj_direct(
 rates12$cid <- "(I80-I82)"
 rates12$sexo <- "Feminino"
 
+# rates cvd
+df_cvd <- dfo2 |>
+  filter(causabas == "(B342)", sexo == "Feminino")
+
+ratescvd <- tidyrates::rate_adj_direct(
+  .data = df_cvd, 
+  .std = pop_reff, 
+  .keys = c("mun", "ano"),
+  .age_group_var = "idade_grp",
+  .age_group_pop_var = "fem",
+  .events_label = "obitos",
+  .population_label = "populacao",
+  .progress = T
+) %>%
+  mutate(
+    crude.rate = crude.rate * 100000,
+    adj.rate = adj.rate * 100000,
+    lci = lci * 100000,
+    uci = uci * 100000,
+  )
+
+ratescvd$cid <- "(B342)"
+ratescvd$sexo <- "Feminino"
+
 # rates 13
 df_o13 <- dfo2 |>
   filter(causabas == "(Outros)", sexo == "Feminino")
@@ -496,7 +521,7 @@ rates13$cid <- "(Outros)"
 rates13$sexo <- "Feminino"
 
 ratesf <- rbind(rates1, rates2, rates3, rates4, rates5, rates6, rates7, rates8,
-                rates9, rates10, rates11, rates12, rates13)
+                rates9, rates10, rates11, rates12, ratescvd, rates13)
 
 ### homens ###
 # rates1 (zero)
@@ -787,6 +812,30 @@ rates12 <- tidyrates::rate_adj_direct(
 rates12$cid <- "(I80-I82)"
 rates12$sexo <- "Masculino"
 
+# rates cvd
+df_cvd <- dfo2 |>
+  filter(causabas == "(B342)", sexo == "Masculino")
+
+ratescvd <- tidyrates::rate_adj_direct(
+  .data = df_cvd, 
+  .std = pop_refm, 
+  .keys = c("mun", "ano"),
+  .age_group_var = "idade_grp",
+  .age_group_pop_var = "masc",
+  .events_label = "obitos",
+  .population_label = "populacao",
+  .progress = T
+) %>%
+  mutate(
+    crude.rate = crude.rate * 100000,
+    adj.rate = adj.rate * 100000,
+    lci = lci * 100000,
+    uci = uci * 100000,
+  )
+
+ratescvd$cid <- "(B342)"
+ratescvd$sexo <- "Masculino"
+
 # rates 13
 df_o13 <- dfo2 |>
   filter(causabas == "(Outros)", sexo == "Masculino")
@@ -813,7 +862,7 @@ rates13$sexo <- "Masculino"
 
 
 ratesm <- rbind(rates1, rates2, rates3, rates4, rates5, rates6, rates7, rates8,
-                rates9, rates10, rates11, rates12, rates13)
+                rates9, rates10, rates11, rates12, ratescvd, rates13)
 
 ratest <- rbind(ratesf, ratesm)
 
@@ -833,6 +882,7 @@ ordem <- c(
   "(D80-D89)", #10
   "(D65-D77)", #11
   "(I80-I82)", #12
+  "(B342)",
   "(Outros)" #13
 )
 
@@ -863,7 +913,7 @@ logtbmp <- ggplot(ratest) +
 
 setwd("../imgs")
 
-ggsave(filename = '../imgs/logtbmp.pdf',
+ggsave(filename = '../imgs/logtbmp.png',
        plot = logtbmp,
        width = 16,
        height = 10)
@@ -907,7 +957,7 @@ for (i in seq_along(ordem)) {
                                    linetype = "solid"),
           plot.background = element_rect(fill = "white"))
   
-  ggsave(paste0("fig_", i, ".png"), 
+  ggsave(paste0("fig_", i, ".pdf"), 
          plot = grafico,
          width = 10,
          height = 4)
