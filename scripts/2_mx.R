@@ -931,8 +931,8 @@ for (i in seq_along(ordem)) {
         y = adj.rate, 
         color = sexo) +
     geom_point(size = 2) + 
-    geom_errorbar(aes(ymin = adj.rate - lci, 
-                      ymax = adj.rate + uci), 
+    geom_errorbar(aes(ymin = lci, 
+                      ymax = uci), 
                   width = 0, 
                   size = 1,
                   alpha = .5) +
@@ -957,7 +957,7 @@ for (i in seq_along(ordem)) {
                                    linetype = "solid"),
           plot.background = element_rect(fill = "white"))
   
-  ggsave(paste0("fig_", i, ".pdf"), 
+  ggsave(paste0("fig_", i, ".png"), 
          plot = grafico,
          width = 10,
          height = 4)
